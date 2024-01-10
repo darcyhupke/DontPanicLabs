@@ -1,0 +1,14 @@
+C:\Users\req101306\OneDrive - Mutual of Omaha\Desktop\Don't Panic Labs\Accumulator\bin\Debug\net8.0\Accumulator.exe
+C:\Users\req101306\OneDrive - Mutual of Omaha\Desktop\Don't Panic Labs\Accumulator\bin\Debug\net8.0\Accumulator.deps.json
+C:\Users\req101306\OneDrive - Mutual of Omaha\Desktop\Don't Panic Labs\Accumulator\bin\Debug\net8.0\Accumulator.runtimeconfig.json
+C:\Users\req101306\OneDrive - Mutual of Omaha\Desktop\Don't Panic Labs\Accumulator\bin\Debug\net8.0\Accumulator.dll
+C:\Users\req101306\OneDrive - Mutual of Omaha\Desktop\Don't Panic Labs\Accumulator\bin\Debug\net8.0\Accumulator.pdb
+C:\Users\req101306\OneDrive - Mutual of Omaha\Desktop\Don't Panic Labs\Accumulator\obj\Debug\net8.0\Accumulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\req101306\OneDrive - Mutual of Omaha\Desktop\Don't Panic Labs\Accumulator\obj\Debug\net8.0\Accumulator.AssemblyInfoInputs.cache
+C:\Users\req101306\OneDrive - Mutual of Omaha\Desktop\Don't Panic Labs\Accumulator\obj\Debug\net8.0\Accumulator.AssemblyInfo.cs
+C:\Users\req101306\OneDrive - Mutual of Omaha\Desktop\Don't Panic Labs\Accumulator\obj\Debug\net8.0\Accumulator.csproj.CoreCompileInputs.cache
+C:\Users\req101306\OneDrive - Mutual of Omaha\Desktop\Don't Panic Labs\Accumulator\obj\Debug\net8.0\Accumulator.dll
+C:\Users\req101306\OneDrive - Mutual of Omaha\Desktop\Don't Panic Labs\Accumulator\obj\Debug\net8.0\refint\Accumulator.dll
+C:\Users\req101306\OneDrive - Mutual of Omaha\Desktop\Don't Panic Labs\Accumulator\obj\Debug\net8.0\Accumulator.pdb
+C:\Users\req101306\OneDrive - Mutual of Omaha\Desktop\Don't Panic Labs\Accumulator\obj\Debug\net8.0\Accumulator.genruntimeconfig.cache
+C:\Users\req101306\OneDrive - Mutual of Omaha\Desktop\Don't Panic Labs\Accumulator\obj\Debug\net8.0\ref\Accumulator.dll

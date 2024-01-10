@@ -1,0 +1,48 @@
+/*
+Program description: This program takes the user's input of teaspoons and converts it into tablespoons, then provides the number of tablespoons or an error if the number is less than zero to the user. 
+
+Programmer: Darcy Hupke
+Date: 1/2/2023
+
+Requirements:
+1) The number of teaspoons will be an integer entered by the user. Must be greater than zero.
+2) The number of tablespoons will be calculated from the number of teaspoons entered by the user divided by 3.
+3) The number of tablespoons will be an integer and displayed back to the screen.
+
+Algorithm:
+1) do
+    a) Prompt the user to enter the number of teaspoons.
+    b) Get number of teaspoons entered by user.
+    c) If the number of teaspoons is less than or equal to zero, display error message.
+    while (number of teaspoons <= 0)
+2) Calculate the number of Tablespoons by taking the number of tablespoons * 3
+3) Display the number of tablespoons to the screen.
+*/
+
+using System;
+
+  class Program  
+  {
+    public static void Main(string[] args)
+    {
+      int numberOfTblsp = 0;
+      do {
+        //Prompt the user for number of Tablespoons
+        Console.WriteLine("Please enter the number of tablespoons: ");
+
+        //Obtain the number of tablespoons and convert to Integer
+        numberOfTblsp = Convert.ToInt32(Console.ReadLine());
+
+        //Error messge
+        if (numberOfTblsp <= 0)
+          {  
+          Console.WriteLine("Please enter a number greater than zero."); 
+          }
+      } while (numberOfTblsp <= 0);
+
+      //Calculate the number of teaspoons by taking the number of tablespoons * 3
+      int numberOfTsp = numberOfTblsp * 3;
+      //Display the number of teaspoons
+      Console.WriteLine("The number of tablespoons in " + numberOfTsp + " teaspoons is " + numberOfTsp + " tablespoons.");
+    }
+  }

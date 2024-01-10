@@ -1,0 +1,14 @@
+C:\Users\req101306\OneDrive - Mutual of Omaha\Desktop\Don't Panic Labs\Methods\obj\Debug\net8.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\req101306\OneDrive - Mutual of Omaha\Desktop\Don't Panic Labs\Methods\obj\Debug\net8.0\Methods.AssemblyInfoInputs.cache
+C:\Users\req101306\OneDrive - Mutual of Omaha\Desktop\Don't Panic Labs\Methods\obj\Debug\net8.0\Methods.AssemblyInfo.cs
+C:\Users\req101306\OneDrive - Mutual of Omaha\Desktop\Don't Panic Labs\Methods\obj\Debug\net8.0\Methods.csproj.CoreCompileInputs.cache
+C:\Users\req101306\OneDrive - Mutual of Omaha\Desktop\Don't Panic Labs\Methods\bin\Debug\net8.0\Methods.exe
+C:\Users\req101306\OneDrive - Mutual of Omaha\Desktop\Don't Panic Labs\Methods\bin\Debug\net8.0\Methods.deps.json
+C:\Users\req101306\OneDrive - Mutual of Omaha\Desktop\Don't Panic Labs\Methods\bin\Debug\net8.0\Methods.runtimeconfig.json
+C:\Users\req101306\OneDrive - Mutual of Omaha\Desktop\Don't Panic Labs\Methods\bin\Debug\net8.0\Methods.dll
+C:\Users\req101306\OneDrive - Mutual of Omaha\Desktop\Don't Panic Labs\Methods\bin\Debug\net8.0\Methods.pdb
+C:\Users\req101306\OneDrive - Mutual of Omaha\Desktop\Don't Panic Labs\Methods\obj\Debug\net8.0\Methods.dll
+C:\Users\req101306\OneDrive - Mutual of Omaha\Desktop\Don't Panic Labs\Methods\obj\Debug\net8.0\refint\Methods.dll
+C:\Users\req101306\OneDrive - Mutual of Omaha\Desktop\Don't Panic Labs\Methods\obj\Debug\net8.0\Methods.pdb
+C:\Users\req101306\OneDrive - Mutual of Omaha\Desktop\Don't Panic Labs\Methods\obj\Debug\net8.0\Methods.genruntimeconfig.cache
+C:\Users\req101306\OneDrive - Mutual of Omaha\Desktop\Don't Panic Labs\Methods\obj\Debug\net8.0\ref\Methods.dll

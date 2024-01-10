@@ -1,0 +1,67 @@
+/*
+Program description: This program will take the user's input of how many number values they want to accumlate. They will be required to enter 1 to 5 number values. Once we have how many numbers they want to accumulate, we will add those number values together and display the value back to the user. 
+
+Programmer: Darcy Hupke
+Date: 1/2/2024
+
+Requirements:
+1) The number of number values will be an integer entered by the user. Must be 1 to 5.
+2) Based on the quantiy they selected, validate the the number values entered. Must be -100 to 100
+3) Add the number values entered together and display the outcome.
+
+Algorithm:
+1) do
+    a) Prompt the user to enter the number of teaspoons.
+    b) Get number of teaspoons entered by user.
+    c) If the number of teaspoons is less than or equal to zero, display error message.
+    while (number of teaspoons <= 0)
+2) Calculate the number of Tablespoons by taking the number of tablespoons * 3
+3) Display the number of tablespoons to the screen.
+*/
+using System;
+
+class Program  
+{
+  public static void Main(string[] args)
+  {
+    int numberOfNumbers = 0, numberValue = 0, numberAccumulator = 0; 
+
+    do {
+      //Prompt the user for number of number values to be entered.
+      Console.WriteLine("Please enter the number of number values you need to accumulate (must be 1 to 5 values): ");
+
+      //Obtain the number of values needed and convert to Integer
+      numberOfNumbers = Convert.ToInt32(Console.ReadLine());
+
+      //Error messge
+      if (numberOfNumbers < 1 || numberOfNumbers > 5)
+        {  
+        Console.WriteLine("Please enter a number 1 to 5."); 
+        }
+    } while (numberOfNumbers < 1 || numberOfNumbers > 5);
+
+
+
+
+    //Add the number values entered together and display the outcome.
+    for (int i = 1; i <= numberOfNumbers; i++)
+     {
+       do {
+         //Prompt the user to enter the number values to be entered.
+         Console.WriteLine("Please enter a number value (must be -100 to 100): ");
+
+         //Obtain the number values entered by user and convert to Integer.
+         numberValue = Convert.ToInt32(Console.ReadLine());
+
+         //Error message
+         if (numberValue < -100 || numberValue > 100)
+           {
+           Console.WriteLine("Please enter a number -100 to 100.");
+           }
+       } while (numberValue < -100 || numberValue > 100);
+      numberAccumulator = numberAccumulator + numberValue;
+     } //end for loop
+
+    Console.WriteLine("The Total = " + numberAccumulator);
+  }
+}

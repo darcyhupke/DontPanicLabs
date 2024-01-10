@@ -1,0 +1,28 @@
+C:\Users\req101306\OneDrive - Mutual of Omaha\Desktop\Don't Panic Labs\Week2Array\obj\Debug\net8.0\Week2Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\req101306\OneDrive - Mutual of Omaha\Desktop\Don't Panic Labs\Week2Array\obj\Debug\net8.0\Week2Array.AssemblyInfoInputs.cache
+C:\Users\req101306\OneDrive - Mutual of Omaha\Desktop\Don't Panic Labs\Week2Array\obj\Debug\net8.0\Week2Array.AssemblyInfo.cs
+C:\Users\req101306\OneDrive - Mutual of Omaha\Desktop\Don't Panic Labs\Week2Array\obj\Debug\net8.0\Week2Array.csproj.CoreCompileInputs.cache
+C:\Users\req101306\OneDrive - Mutual of Omaha\Desktop\Don't Panic Labs\Week2Array\bin\Debug\net8.0\Week2Array.exe
+C:\Users\req101306\OneDrive - Mutual of Omaha\Desktop\Don't Panic Labs\Week2Array\bin\Debug\net8.0\Week2Array.deps.json
+C:\Users\req101306\OneDrive - Mutual of Omaha\Desktop\Don't Panic Labs\Week2Array\bin\Debug\net8.0\Week2Array.runtimeconfig.json
+C:\Users\req101306\OneDrive - Mutual of Omaha\Desktop\Don't Panic Labs\Week2Array\bin\Debug\net8.0\Week2Array.dll
+C:\Users\req101306\OneDrive - Mutual of Omaha\Desktop\Don't Panic Labs\Week2Array\bin\Debug\net8.0\Week2Array.pdb
+C:\Users\req101306\OneDrive - Mutual of Omaha\Desktop\Don't Panic Labs\Week2Array\obj\Debug\net8.0\Week2Array.dll
+C:\Users\req101306\OneDrive - Mutual of Omaha\Desktop\Don't Panic Labs\Week2Array\obj\Debug\net8.0\refint\Week2Array.dll
+C:\Users\req101306\OneDrive - Mutual of Omaha\Desktop\Don't Panic Labs\Week2Array\obj\Debug\net8.0\Week2Array.pdb
+C:\Users\req101306\OneDrive - Mutual of Omaha\Desktop\Don't Panic Labs\Week2Array\obj\Debug\net8.0\Week2Array.genruntimeconfig.cache
+C:\Users\req101306\OneDrive - Mutual of Omaha\Desktop\Don't Panic Labs\Week2Array\obj\Debug\net8.0\ref\Week2Array.dll
+C:\Users\req101306\Desktop\Don't Panic Labs\Week2Array\bin\Debug\net8.0\Week2Array.exe
+C:\Users\req101306\Desktop\Don't Panic Labs\Week2Array\bin\Debug\net8.0\Week2Array.deps.json
+C:\Users\req101306\Desktop\Don't Panic Labs\Week2Array\bin\Debug\net8.0\Week2Array.runtimeconfig.json
+C:\Users\req101306\Desktop\Don't Panic Labs\Week2Array\bin\Debug\net8.0\Week2Array.dll
+C:\Users\req101306\Desktop\Don't Panic Labs\Week2Array\bin\Debug\net8.0\Week2Array.pdb
+C:\Users\req101306\Desktop\Don't Panic Labs\Week2Array\obj\Debug\net8.0\Week2Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\req101306\Desktop\Don't Panic Labs\Week2Array\obj\Debug\net8.0\Week2Array.AssemblyInfoInputs.cache
+C:\Users\req101306\Desktop\Don't Panic Labs\Week2Array\obj\Debug\net8.0\Week2Array.AssemblyInfo.cs
+C:\Users\req101306\Desktop\Don't Panic Labs\Week2Array\obj\Debug\net8.0\Week2Array.csproj.CoreCompileInputs.cache
+C:\Users\req101306\Desktop\Don't Panic Labs\Week2Array\obj\Debug\net8.0\Week2Array.dll
+C:\Users\req101306\Desktop\Don't Panic Labs\Week2Array\obj\Debug\net8.0\refint\Week2Array.dll
+C:\Users\req101306\Desktop\Don't Panic Labs\Week2Array\obj\Debug\net8.0\Week2Array.pdb
+C:\Users\req101306\Desktop\Don't Panic Labs\Week2Array\obj\Debug\net8.0\Week2Array.genruntimeconfig.cache
+C:\Users\req101306\Desktop\Don't Panic Labs\Week2Array\obj\Debug\net8.0\ref\Week2Array.dll

@@ -1,0 +1,28 @@
+C:\Users\req101306\OneDrive - Mutual of Omaha\Desktop\Don't Panic Labs\Week2CRUD\bin\Debug\net8.0\Week2CRUD.exe
+C:\Users\req101306\OneDrive - Mutual of Omaha\Desktop\Don't Panic Labs\Week2CRUD\bin\Debug\net8.0\Week2CRUD.deps.json
+C:\Users\req101306\OneDrive - Mutual of Omaha\Desktop\Don't Panic Labs\Week2CRUD\bin\Debug\net8.0\Week2CRUD.runtimeconfig.json
+C:\Users\req101306\OneDrive - Mutual of Omaha\Desktop\Don't Panic Labs\Week2CRUD\bin\Debug\net8.0\Week2CRUD.dll
+C:\Users\req101306\OneDrive - Mutual of Omaha\Desktop\Don't Panic Labs\Week2CRUD\bin\Debug\net8.0\Week2CRUD.pdb
+C:\Users\req101306\OneDrive - Mutual of Omaha\Desktop\Don't Panic Labs\Week2CRUD\obj\Debug\net8.0\Week2CRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\req101306\OneDrive - Mutual of Omaha\Desktop\Don't Panic Labs\Week2CRUD\obj\Debug\net8.0\Week2CRUD.AssemblyInfoInputs.cache
+C:\Users\req101306\OneDrive - Mutual of Omaha\Desktop\Don't Panic Labs\Week2CRUD\obj\Debug\net8.0\Week2CRUD.AssemblyInfo.cs
+C:\Users\req101306\OneDrive - Mutual of Omaha\Desktop\Don't Panic Labs\Week2CRUD\obj\Debug\net8.0\Week2CRUD.csproj.CoreCompileInputs.cache
+C:\Users\req101306\OneDrive - Mutual of Omaha\Desktop\Don't Panic Labs\Week2CRUD\obj\Debug\net8.0\Week2CRUD.dll
+C:\Users\req101306\OneDrive - Mutual of Omaha\Desktop\Don't Panic Labs\Week2CRUD\obj\Debug\net8.0\refint\Week2CRUD.dll
+C:\Users\req101306\OneDrive - Mutual of Omaha\Desktop\Don't Panic Labs\Week2CRUD\obj\Debug\net8.0\Week2CRUD.pdb
+C:\Users\req101306\OneDrive - Mutual of Omaha\Desktop\Don't Panic Labs\Week2CRUD\obj\Debug\net8.0\Week2CRUD.genruntimeconfig.cache
+C:\Users\req101306\OneDrive - Mutual of Omaha\Desktop\Don't Panic Labs\Week2CRUD\obj\Debug\net8.0\ref\Week2CRUD.dll
+C:\Users\req101306\Desktop\Don't Panic Labs\Week2CRUD\bin\Debug\net8.0\Week2CRUD.exe
+C:\Users\req101306\Desktop\Don't Panic Labs\Week2CRUD\bin\Debug\net8.0\Week2CRUD.deps.json
+C:\Users\req101306\Desktop\Don't Panic Labs\Week2CRUD\bin\Debug\net8.0\Week2CRUD.runtimeconfig.json
+C:\Users\req101306\Desktop\Don't Panic Labs\Week2CRUD\bin\Debug\net8.0\Week2CRUD.dll
+C:\Users\req101306\Desktop\Don't Panic Labs\Week2CRUD\bin\Debug\net8.0\Week2CRUD.pdb
+C:\Users\req101306\Desktop\Don't Panic Labs\Week2CRUD\obj\Debug\net8.0\Week2CRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\req101306\Desktop\Don't Panic Labs\Week2CRUD\obj\Debug\net8.0\Week2CRUD.AssemblyInfoInputs.cache
+C:\Users\req101306\Desktop\Don't Panic Labs\Week2CRUD\obj\Debug\net8.0\Week2CRUD.AssemblyInfo.cs
+C:\Users\req101306\Desktop\Don't Panic Labs\Week2CRUD\obj\Debug\net8.0\Week2CRUD.csproj.CoreCompileInputs.cache
+C:\Users\req101306\Desktop\Don't Panic Labs\Week2CRUD\obj\Debug\net8.0\Week2CRUD.dll
+C:\Users\req101306\Desktop\Don't Panic Labs\Week2CRUD\obj\Debug\net8.0\refint\Week2CRUD.dll
+C:\Users\req101306\Desktop\Don't Panic Labs\Week2CRUD\obj\Debug\net8.0\Week2CRUD.pdb
+C:\Users\req101306\Desktop\Don't Panic Labs\Week2CRUD\obj\Debug\net8.0\Week2CRUD.genruntimeconfig.cache
+C:\Users\req101306\Desktop\Don't Panic Labs\Week2CRUD\obj\Debug\net8.0\ref\Week2CRUD.dll

@@ -1,0 +1,14 @@
+C:\Users\req101306\OneDrive - Mutual of Omaha\Desktop\Don't Panic Labs\Week1Practice\obj\Debug\net8.0\Week1Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\req101306\OneDrive - Mutual of Omaha\Desktop\Don't Panic Labs\Week1Practice\obj\Debug\net8.0\Week1Practice.AssemblyInfoInputs.cache
+C:\Users\req101306\OneDrive - Mutual of Omaha\Desktop\Don't Panic Labs\Week1Practice\obj\Debug\net8.0\Week1Practice.AssemblyInfo.cs
+C:\Users\req101306\OneDrive - Mutual of Omaha\Desktop\Don't Panic Labs\Week1Practice\obj\Debug\net8.0\Week1Practice.csproj.CoreCompileInputs.cache
+C:\Users\req101306\OneDrive - Mutual of Omaha\Desktop\Don't Panic Labs\Week1Practice\bin\Debug\net8.0\Week1Practice.exe
+C:\Users\req101306\OneDrive - Mutual of Omaha\Desktop\Don't Panic Labs\Week1Practice\bin\Debug\net8.0\Week1Practice.deps.json
+C:\Users\req101306\OneDrive - Mutual of Omaha\Desktop\Don't Panic Labs\Week1Practice\bin\Debug\net8.0\Week1Practice.runtimeconfig.json
+C:\Users\req101306\OneDrive - Mutual of Omaha\Desktop\Don't Panic Labs\Week1Practice\bin\Debug\net8.0\Week1Practice.dll
+C:\Users\req101306\OneDrive - Mutual of Omaha\Desktop\Don't Panic Labs\Week1Practice\bin\Debug\net8.0\Week1Practice.pdb
+C:\Users\req101306\OneDrive - Mutual of Omaha\Desktop\Don't Panic Labs\Week1Practice\obj\Debug\net8.0\Week1Practice.dll
+C:\Users\req101306\OneDrive - Mutual of Omaha\Desktop\Don't Panic Labs\Week1Practice\obj\Debug\net8.0\refint\Week1Practice.dll
+C:\Users\req101306\OneDrive - Mutual of Omaha\Desktop\Don't Panic Labs\Week1Practice\obj\Debug\net8.0\Week1Practice.pdb
+C:\Users\req101306\OneDrive - Mutual of Omaha\Desktop\Don't Panic Labs\Week1Practice\obj\Debug\net8.0\Week1Practice.genruntimeconfig.cache
+C:\Users\req101306\OneDrive - Mutual of Omaha\Desktop\Don't Panic Labs\Week1Practice\obj\Debug\net8.0\ref\Week1Practice.dll
