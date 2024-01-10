@@ -1,8 +1,0 @@
-C:\Users\req101306\OneDrive - Mutual of Omaha\Desktop\Don't Panic Labs\obj\Debug\net8.0\Don't Panic Labs.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\req101306\OneDrive - Mutual of Omaha\Desktop\Don't Panic Labs\obj\Debug\net8.0\Don't Panic Labs.AssemblyInfoInputs.cache
-C:\Users\req101306\OneDrive - Mutual of Omaha\Desktop\Don't Panic Labs\obj\Debug\net8.0\Don't Panic Labs.AssemblyInfo.cs
-C:\Users\req101306\OneDrive - Mutual of Omaha\Desktop\Don't Panic Labs\obj\Debug\net8.0\Don't Panic Labs.csproj.CoreCompileInputs.cache
-C:\Users\req101306\Desktop\Don't Panic Labs\obj\Debug\net8.0\Don't Panic Labs.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\req101306\Desktop\Don't Panic Labs\obj\Debug\net8.0\Don't Panic Labs.AssemblyInfoInputs.cache
-C:\Users\req101306\Desktop\Don't Panic Labs\obj\Debug\net8.0\Don't Panic Labs.AssemblyInfo.cs
-C:\Users\req101306\Desktop\Don't Panic Labs\obj\Debug\net8.0\Don't Panic Labs.csproj.CoreCompileInputs.cache
