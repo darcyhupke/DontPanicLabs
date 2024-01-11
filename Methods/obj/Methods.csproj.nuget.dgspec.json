@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\req101306\\OneDrive - Mutual of Omaha\\Desktop\\Don't Panic Labs\\Methods\\Methods.csproj": {}
+    "C:\\Users\\req101306\\Desktop\\DontPanicLabs\\Methods\\Methods.csproj": {}
   },
   "projects": {
-    "C:\\Users\\req101306\\OneDrive - Mutual of Omaha\\Desktop\\Don't Panic Labs\\Methods\\Methods.csproj": {
+    "C:\\Users\\req101306\\Desktop\\DontPanicLabs\\Methods\\Methods.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\req101306\\OneDrive - Mutual of Omaha\\Desktop\\Don't Panic Labs\\Methods\\Methods.csproj",
+        "projectUniqueName": "C:\\Users\\req101306\\Desktop\\DontPanicLabs\\Methods\\Methods.csproj",
         "projectName": "Methods",
-        "projectPath": "C:\\Users\\req101306\\OneDrive - Mutual of Omaha\\Desktop\\Don't Panic Labs\\Methods\\Methods.csproj",
+        "projectPath": "C:\\Users\\req101306\\Desktop\\DontPanicLabs\\Methods\\Methods.csproj",
         "packagesPath": "C:\\Users\\req101306\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\req101306\\OneDrive - Mutual of Omaha\\Desktop\\Don't Panic Labs\\Methods\\obj\\",
+        "outputPath": "C:\\Users\\req101306\\Desktop\\DontPanicLabs\\Methods\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

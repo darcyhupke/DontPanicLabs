@@ -28,6 +28,7 @@ namespace Crud
         const int arraySize=12;
         string[] nameArray = new string[arraySize];
         string fileName = "names.txt";
+        
 
       // Repeat main loop
       do
@@ -96,6 +97,29 @@ namespace Crud
             else if (userChoiceString=="S" || userChoiceString=="s")
             {
                 Console.WriteLine("In the S/s area");
+
+                try
+                {
+                    // If file exists, delete it.
+                    if (File.Exists(fileName))
+                    {
+                        File.Delete(fileName);
+                    }
+
+                    // Create the file
+                    int index = 0;
+                    using(StreamWriter fileStr = File.CreateText(fileName))
+                    {
+                        foreach (string name in nameArray)
+                        {
+                            fileStr.WriteLine(name);
+                        }
+                    }
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine(e.ToString());
+                }
             }
 
         //  TODO: Else if the option is a C or c then add a name to the array (if there's room there)
@@ -106,17 +130,24 @@ namespace Crud
                 Console.WriteLine(" ");
                 Console.WriteLine("Who would you like to add?");
                 string addName = Console.ReadLine();
-                                
+                bool nameAdded = false;
+
                 for (int index = 0; index < arraySize; index++)
                 {
                     if ((nameArray[index]) == "")
                     {
                         nameArray[index] = addName;   
                         index = arraySize;
+                        nameAdded = true;
                     }    
-                    //else
-                    //    Console.WriteLine("No room in file!");
-                }    
+       
+                } 
+                if (!nameAdded)
+                    Console.WriteLine("No room available! Must delete a name before you can add a new one.");    
+                    Console.WriteLine("");
+                else
+                    Console.WriteLine("Name added. Select R to display an updated list."); 
+                    Console.WriteLine("");
             }
 
         //  TODO: Else if the option is an R or r then print the array
@@ -143,26 +174,25 @@ namespace Crud
                 string nameToUpdate = Console.ReadLine();
                 Console.WriteLine("What would you like to change " + nameToUpdate + " to?");
                 string changeNameTo = Console.ReadLine();
+                bool foundUpdate = false;
+
                 
-
-                bool found = false;
-
                 for (int index = 0; index < arraySize; index++)
                 {
                     if ((nameArray[index]) == nameToUpdate)
                         {
                             nameArray[index] = changeNameTo;  
-                            found = true;
+                            foundUpdate = true;
                 
                         }
-                    if (found)
+                    if (foundUpdate)
                         break;
                 }
 
-                if (!found)
+                if (!foundUpdate)
                     Console.WriteLine("Name not found!");    
                 else
-                    Console.WriteLine("Name changed!");
+                    Console.WriteLine("Name updated. Select R to display an updated list.");
             }
             
 
@@ -171,7 +201,30 @@ namespace Crud
             else if (userChoiceString=="D" || userChoiceString=="d")
             {
                 Console.WriteLine("In the D/d area");
+                Console.WriteLine("Who would you like to delete?");
+                string nameToDelete = Console.ReadLine();
+                bool foundDelete = false;
+
+
+                for (int index = 0; index < arraySize; index++)
+                {
+                    if ((nameArray[index]) == nameToDelete)
+                        {
+                            nameArray[index] = "";  
+                            foundDelete = true;
+                
+                        }
+                    if (foundDelete)
+                        break;
+                }
+
+                if (!foundDelete)
+                    Console.WriteLine("Name not found!");    
+                else
+                    Console.WriteLine(nameToDelete + " has been deleted. Select R to display an updated list");
             }
+
+
         //  TODO: Else if the option is a Q or q then quit the program
 
             else 
