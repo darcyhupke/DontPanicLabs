@@ -1,0 +1,25 @@
+Culvers,3 stars
+Taco Johns,2 stars
+Perkins,3 stars
+Granite City,4 stars
+McDonalds,1 star
+Hardees,1 star
+Ruby Tuesday,3 stars
+Texas Roadhouse,4 stars
+MacKenzie River, 4 stars
+Chevys,4 stars
+ , 
+Cracker Barrel, 4 stars
+Fryn Pan,2 stars
+Outback Steakhouse,5 stars
+22Ten,5 stars
+ROAM,4 stars
+Sonic,3 stars
+Subway,3 stars
+Firehouse,4 stars
+Five Guys,5 stars
+Wendys,1 star
+KFC,1 star
+Qdoba,4 stars
+Slim Chickens,5 stars
+Potbelly,4 stars

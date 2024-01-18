@@ -1,0 +1,15 @@
+C:\Users\req101306\Desktop\DontPanicLabs\week3\restaurantclasspolymorphism\obj\Debug\net8.0\restaurantclasspolymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\req101306\Desktop\DontPanicLabs\week3\restaurantclasspolymorphism\obj\Debug\net8.0\restaurantclasspolymorphism.AssemblyInfoInputs.cache
+C:\Users\req101306\Desktop\DontPanicLabs\week3\restaurantclasspolymorphism\obj\Debug\net8.0\restaurantclasspolymorphism.AssemblyInfo.cs
+C:\Users\req101306\Desktop\DontPanicLabs\week3\restaurantclasspolymorphism\obj\Debug\net8.0\restaurantclasspolymorphism.csproj.CoreCompileInputs.cache
+C:\Users\req101306\Desktop\DontPanicLabs\week3\restaurantclasspolymorphism\obj\Debug\net8.0\restaurantclasspolymorphism.sourcelink.json
+C:\Users\req101306\Desktop\DontPanicLabs\week3\restaurantclasspolymorphism\bin\Debug\net8.0\restaurantclasspolymorphism.exe
+C:\Users\req101306\Desktop\DontPanicLabs\week3\restaurantclasspolymorphism\bin\Debug\net8.0\restaurantclasspolymorphism.deps.json
+C:\Users\req101306\Desktop\DontPanicLabs\week3\restaurantclasspolymorphism\bin\Debug\net8.0\restaurantclasspolymorphism.runtimeconfig.json
+C:\Users\req101306\Desktop\DontPanicLabs\week3\restaurantclasspolymorphism\bin\Debug\net8.0\restaurantclasspolymorphism.dll
+C:\Users\req101306\Desktop\DontPanicLabs\week3\restaurantclasspolymorphism\bin\Debug\net8.0\restaurantclasspolymorphism.pdb
+C:\Users\req101306\Desktop\DontPanicLabs\week3\restaurantclasspolymorphism\obj\Debug\net8.0\restaurantclasspolymorphism.dll
+C:\Users\req101306\Desktop\DontPanicLabs\week3\restaurantclasspolymorphism\obj\Debug\net8.0\refint\restaurantclasspolymorphism.dll
+C:\Users\req101306\Desktop\DontPanicLabs\week3\restaurantclasspolymorphism\obj\Debug\net8.0\restaurantclasspolymorphism.pdb
+C:\Users\req101306\Desktop\DontPanicLabs\week3\restaurantclasspolymorphism\obj\Debug\net8.0\restaurantclasspolymorphism.genruntimeconfig.cache
+C:\Users\req101306\Desktop\DontPanicLabs\week3\restaurantclasspolymorphism\obj\Debug\net8.0\ref\restaurantclasspolymorphism.dll

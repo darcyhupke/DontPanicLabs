@@ -1,0 +1,15 @@
+C:\Users\req101306\Desktop\DontPanicLabs\week3\restaurantclassinheritance\obj\Debug\net8.0\restaurantclassinheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\req101306\Desktop\DontPanicLabs\week3\restaurantclassinheritance\obj\Debug\net8.0\restaurantclassinheritance.AssemblyInfoInputs.cache
+C:\Users\req101306\Desktop\DontPanicLabs\week3\restaurantclassinheritance\obj\Debug\net8.0\restaurantclassinheritance.AssemblyInfo.cs
+C:\Users\req101306\Desktop\DontPanicLabs\week3\restaurantclassinheritance\obj\Debug\net8.0\restaurantclassinheritance.csproj.CoreCompileInputs.cache
+C:\Users\req101306\Desktop\DontPanicLabs\week3\restaurantclassinheritance\obj\Debug\net8.0\restaurantclassinheritance.sourcelink.json
+C:\Users\req101306\Desktop\DontPanicLabs\week3\restaurantclassinheritance\bin\Debug\net8.0\restaurantclassinheritance.exe
+C:\Users\req101306\Desktop\DontPanicLabs\week3\restaurantclassinheritance\bin\Debug\net8.0\restaurantclassinheritance.deps.json
+C:\Users\req101306\Desktop\DontPanicLabs\week3\restaurantclassinheritance\bin\Debug\net8.0\restaurantclassinheritance.runtimeconfig.json
+C:\Users\req101306\Desktop\DontPanicLabs\week3\restaurantclassinheritance\bin\Debug\net8.0\restaurantclassinheritance.dll
+C:\Users\req101306\Desktop\DontPanicLabs\week3\restaurantclassinheritance\bin\Debug\net8.0\restaurantclassinheritance.pdb
+C:\Users\req101306\Desktop\DontPanicLabs\week3\restaurantclassinheritance\obj\Debug\net8.0\restaurantclassinheritance.dll
+C:\Users\req101306\Desktop\DontPanicLabs\week3\restaurantclassinheritance\obj\Debug\net8.0\refint\restaurantclassinheritance.dll
+C:\Users\req101306\Desktop\DontPanicLabs\week3\restaurantclassinheritance\obj\Debug\net8.0\restaurantclassinheritance.pdb
+C:\Users\req101306\Desktop\DontPanicLabs\week3\restaurantclassinheritance\obj\Debug\net8.0\restaurantclassinheritance.genruntimeconfig.cache
+C:\Users\req101306\Desktop\DontPanicLabs\week3\restaurantclassinheritance\obj\Debug\net8.0\ref\restaurantclassinheritance.dll

@@ -1,0 +1,15 @@
+C:\Users\req101306\Desktop\DontPanicLabs\week3\inheritanceExample\obj\Debug\net8.0\inheritanceExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\req101306\Desktop\DontPanicLabs\week3\inheritanceExample\obj\Debug\net8.0\inheritanceExample.AssemblyInfoInputs.cache
+C:\Users\req101306\Desktop\DontPanicLabs\week3\inheritanceExample\obj\Debug\net8.0\inheritanceExample.AssemblyInfo.cs
+C:\Users\req101306\Desktop\DontPanicLabs\week3\inheritanceExample\obj\Debug\net8.0\inheritanceExample.csproj.CoreCompileInputs.cache
+C:\Users\req101306\Desktop\DontPanicLabs\week3\inheritanceExample\obj\Debug\net8.0\inheritanceExample.sourcelink.json
+C:\Users\req101306\Desktop\DontPanicLabs\week3\inheritanceExample\bin\Debug\net8.0\inheritanceExample.exe
+C:\Users\req101306\Desktop\DontPanicLabs\week3\inheritanceExample\bin\Debug\net8.0\inheritanceExample.deps.json
+C:\Users\req101306\Desktop\DontPanicLabs\week3\inheritanceExample\bin\Debug\net8.0\inheritanceExample.runtimeconfig.json
+C:\Users\req101306\Desktop\DontPanicLabs\week3\inheritanceExample\bin\Debug\net8.0\inheritanceExample.dll
+C:\Users\req101306\Desktop\DontPanicLabs\week3\inheritanceExample\bin\Debug\net8.0\inheritanceExample.pdb
+C:\Users\req101306\Desktop\DontPanicLabs\week3\inheritanceExample\obj\Debug\net8.0\inheritanceExample.dll
+C:\Users\req101306\Desktop\DontPanicLabs\week3\inheritanceExample\obj\Debug\net8.0\refint\inheritanceExample.dll
+C:\Users\req101306\Desktop\DontPanicLabs\week3\inheritanceExample\obj\Debug\net8.0\inheritanceExample.pdb
+C:\Users\req101306\Desktop\DontPanicLabs\week3\inheritanceExample\obj\Debug\net8.0\inheritanceExample.genruntimeconfig.cache
+C:\Users\req101306\Desktop\DontPanicLabs\week3\inheritanceExample\obj\Debug\net8.0\ref\inheritanceExample.dll

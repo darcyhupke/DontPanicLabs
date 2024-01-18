@@ -1,0 +1,4 @@
+Restaurant: Freddys:  Rating: 4
+Restaurant: McDonalds:  Rating: 2
+Restaurant: Lazlos:  Rating: 4
+Restaurant: Venue:  Rating: 5

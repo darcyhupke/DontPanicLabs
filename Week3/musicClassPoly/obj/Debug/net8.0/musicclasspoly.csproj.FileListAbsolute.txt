@@ -1,0 +1,15 @@
+C:\Users\req101306\Desktop\DontPanicLabs\week3\musicclasspoly\obj\Debug\net8.0\musicclasspoly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\req101306\Desktop\DontPanicLabs\week3\musicclasspoly\obj\Debug\net8.0\musicclasspoly.AssemblyInfoInputs.cache
+C:\Users\req101306\Desktop\DontPanicLabs\week3\musicclasspoly\obj\Debug\net8.0\musicclasspoly.AssemblyInfo.cs
+C:\Users\req101306\Desktop\DontPanicLabs\week3\musicclasspoly\obj\Debug\net8.0\musicclasspoly.csproj.CoreCompileInputs.cache
+C:\Users\req101306\Desktop\DontPanicLabs\week3\musicclasspoly\obj\Debug\net8.0\musicclasspoly.sourcelink.json
+C:\Users\req101306\Desktop\DontPanicLabs\week3\musicclasspoly\bin\Debug\net8.0\musicclasspoly.exe
+C:\Users\req101306\Desktop\DontPanicLabs\week3\musicclasspoly\bin\Debug\net8.0\musicclasspoly.deps.json
+C:\Users\req101306\Desktop\DontPanicLabs\week3\musicclasspoly\bin\Debug\net8.0\musicclasspoly.runtimeconfig.json
+C:\Users\req101306\Desktop\DontPanicLabs\week3\musicclasspoly\bin\Debug\net8.0\musicclasspoly.dll
+C:\Users\req101306\Desktop\DontPanicLabs\week3\musicclasspoly\bin\Debug\net8.0\musicclasspoly.pdb
+C:\Users\req101306\Desktop\DontPanicLabs\week3\musicclasspoly\obj\Debug\net8.0\musicclasspoly.dll
+C:\Users\req101306\Desktop\DontPanicLabs\week3\musicclasspoly\obj\Debug\net8.0\refint\musicclasspoly.dll
+C:\Users\req101306\Desktop\DontPanicLabs\week3\musicclasspoly\obj\Debug\net8.0\musicclasspoly.pdb
+C:\Users\req101306\Desktop\DontPanicLabs\week3\musicclasspoly\obj\Debug\net8.0\musicclasspoly.genruntimeconfig.cache
+C:\Users\req101306\Desktop\DontPanicLabs\week3\musicclasspoly\obj\Debug\net8.0\ref\musicclasspoly.dll
