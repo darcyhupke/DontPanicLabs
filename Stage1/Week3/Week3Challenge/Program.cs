@@ -140,18 +140,30 @@ namespace employeeAPP
                         {
                             for (int indexRow = 0; indexRow < rowSize; indexRow++)
                             {
-                                string empLastName = employeeArray[indexRow].ELastName;
-                                string empFirstName = employeeArray[indexRow].EFirstName;
-                                string empType = employeeArray[indexRow].EType;
-                                //if ((employeeArray[indexRow].EType) == "S" || (employeeArray[indexRow].EType) == "s")
-                                //    empWage = employeeArray[indexRow].SalaryAmount;
-                                //else
-                                //    if ((employeeArray[indexRow].EType) == "H" || (employeeArray[indexRow].EType) == "h")
-                                //        empWage = employeeArray[indexRow].HourlyRate;
-
-                                //fileStr.WriteLine(empLastName + "," + empFirstName + "," + empType + "," + empWage);
-                                fileStr.WriteLine(empLastName + "," + empFirstName + "," + empType + "," );
+                                if ((employeeArray[indexRow].ELastName) != null)
+                                {
+                                    string empLastName = employeeArray[indexRow].ELastName;
+                                    string empFirstName = employeeArray[indexRow].EFirstName;
+                                    string empType = employeeArray[indexRow].EType;
+                                
+                                    if ((employeeArray[indexRow].EType) == "S" || (employeeArray[indexRow].EType) == "s")
+                                        {
+                                            SalaryEmployee sEmployee = (SalaryEmployee)employeeArray[indexRow];
+                                            empWage = sEmployee.SalaryAmount;
+                                        }
+                                    else
+                                        if ((employeeArray[indexRow].EType) == "H" || (employeeArray[indexRow].EType) == "h")
+                                            {
+                                                HourlyEmployee hEmployee = (HourlyEmployee)employeeArray[indexRow];
+                                                empWage = hEmployee.HourlyRate;
+                                            }
+                                
+                                    fileStr.WriteLine(empLastName + "," + empFirstName + "," + empType + "," + empWage);
+                                }
+                                //fileStr.WriteLine(empLastName + "," + empFirstName + "," + empType + "," );
                             }
+                            Console.WriteLine("Employee list has been saved to employee.txt.");
+                            Console.WriteLine("");
                         }    
                     }
                     catch (Exception e)

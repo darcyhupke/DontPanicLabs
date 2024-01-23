@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\req101306\\Desktop\\DontPanicLabs\\Accumulator\\Accumulator.csproj",
+      "projectUniqueName": "C:\\Users\\req101306\\Desktop\\DontPanicLabs\\Stage1\\Week1\\Accumulator\\Accumulator.csproj",
       "projectName": "Accumulator",
-      "projectPath": "C:\\Users\\req101306\\Desktop\\DontPanicLabs\\Accumulator\\Accumulator.csproj",
+      "projectPath": "C:\\Users\\req101306\\Desktop\\DontPanicLabs\\Stage1\\Week1\\Accumulator\\Accumulator.csproj",
       "packagesPath": "C:\\Users\\req101306\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\req101306\\Desktop\\DontPanicLabs\\Accumulator\\obj\\",
+      "outputPath": "C:\\Users\\req101306\\Desktop\\DontPanicLabs\\Stage1\\Week1\\Accumulator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\req101306\\Desktop\\DontPanicLabs\\week3\\inheritanceExample\\inheritanceExample.csproj",
+      "projectUniqueName": "C:\\Users\\req101306\\Desktop\\DontPanicLabs\\Stage1\\Week3\\InheritanceExample\\inheritanceExample.csproj",
       "projectName": "inheritanceExample",
-      "projectPath": "C:\\Users\\req101306\\Desktop\\DontPanicLabs\\week3\\inheritanceExample\\inheritanceExample.csproj",
+      "projectPath": "C:\\Users\\req101306\\Desktop\\DontPanicLabs\\Stage1\\Week3\\InheritanceExample\\inheritanceExample.csproj",
       "packagesPath": "C:\\Users\\req101306\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\req101306\\Desktop\\DontPanicLabs\\week3\\inheritanceExample\\obj\\",
+      "outputPath": "C:\\Users\\req101306\\Desktop\\DontPanicLabs\\Stage1\\Week3\\InheritanceExample\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

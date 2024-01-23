@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\req101306\\Desktop\\DontPanicLabs\\week3\\week3day1\\week3.csproj": {}
+    "C:\\Users\\req101306\\Desktop\\DontPanicLabs\\Stage1\\Week3\\restaurantClass\\week3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\req101306\\Desktop\\DontPanicLabs\\week3\\week3day1\\week3.csproj": {
+    "C:\\Users\\req101306\\Desktop\\DontPanicLabs\\Stage1\\Week3\\restaurantClass\\week3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\req101306\\Desktop\\DontPanicLabs\\week3\\week3day1\\week3.csproj",
+        "projectUniqueName": "C:\\Users\\req101306\\Desktop\\DontPanicLabs\\Stage1\\Week3\\restaurantClass\\week3.csproj",
         "projectName": "week3",
-        "projectPath": "C:\\Users\\req101306\\Desktop\\DontPanicLabs\\week3\\week3day1\\week3.csproj",
+        "projectPath": "C:\\Users\\req101306\\Desktop\\DontPanicLabs\\Stage1\\Week3\\restaurantClass\\week3.csproj",
         "packagesPath": "C:\\Users\\req101306\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\req101306\\Desktop\\DontPanicLabs\\week3\\week3day1\\obj\\",
+        "outputPath": "C:\\Users\\req101306\\Desktop\\DontPanicLabs\\Stage1\\Week3\\restaurantClass\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

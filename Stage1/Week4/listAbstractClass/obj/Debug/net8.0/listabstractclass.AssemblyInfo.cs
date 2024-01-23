@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("listabstractclass")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+620cb8bcbb23b259c63d5eb402a787afdbddb668")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9cf3fa2bf27d85b51d36421663da05d57940ed7d")]
 [assembly: System.Reflection.AssemblyProductAttribute("listabstractclass")]
 [assembly: System.Reflection.AssemblyTitleAttribute("listabstractclass")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

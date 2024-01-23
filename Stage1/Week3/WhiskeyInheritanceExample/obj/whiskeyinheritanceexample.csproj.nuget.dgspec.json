@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\req101306\\Desktop\\DontPanicLabs\\week3\\whiskeyinheritanceexample\\whiskeyinheritanceexample.csproj": {}
+    "C:\\Users\\req101306\\Desktop\\DontPanicLabs\\Stage1\\Week3\\WhiskeyInheritanceExample\\whiskeyinheritanceexample.csproj": {}
   },
   "projects": {
-    "C:\\Users\\req101306\\Desktop\\DontPanicLabs\\week3\\whiskeyinheritanceexample\\whiskeyinheritanceexample.csproj": {
+    "C:\\Users\\req101306\\Desktop\\DontPanicLabs\\Stage1\\Week3\\WhiskeyInheritanceExample\\whiskeyinheritanceexample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\req101306\\Desktop\\DontPanicLabs\\week3\\whiskeyinheritanceexample\\whiskeyinheritanceexample.csproj",
+        "projectUniqueName": "C:\\Users\\req101306\\Desktop\\DontPanicLabs\\Stage1\\Week3\\WhiskeyInheritanceExample\\whiskeyinheritanceexample.csproj",
         "projectName": "whiskeyinheritanceexample",
-        "projectPath": "C:\\Users\\req101306\\Desktop\\DontPanicLabs\\week3\\whiskeyinheritanceexample\\whiskeyinheritanceexample.csproj",
+        "projectPath": "C:\\Users\\req101306\\Desktop\\DontPanicLabs\\Stage1\\Week3\\WhiskeyInheritanceExample\\whiskeyinheritanceexample.csproj",
         "packagesPath": "C:\\Users\\req101306\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\req101306\\Desktop\\DontPanicLabs\\week3\\whiskeyinheritanceexample\\obj\\",
+        "outputPath": "C:\\Users\\req101306\\Desktop\\DontPanicLabs\\Stage1\\Week3\\WhiskeyInheritanceExample\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\req101306\\Desktop\\DontPanicLabs\\Week1Practice\\Week1Practice.csproj",
+      "projectUniqueName": "C:\\Users\\req101306\\Desktop\\DontPanicLabs\\Stage1\\Week1\\Week1Practice\\Week1Practice.csproj",
       "projectName": "Week1Practice",
-      "projectPath": "C:\\Users\\req101306\\Desktop\\DontPanicLabs\\Week1Practice\\Week1Practice.csproj",
+      "projectPath": "C:\\Users\\req101306\\Desktop\\DontPanicLabs\\Stage1\\Week1\\Week1Practice\\Week1Practice.csproj",
       "packagesPath": "C:\\Users\\req101306\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\req101306\\Desktop\\DontPanicLabs\\Week1Practice\\obj\\",
+      "outputPath": "C:\\Users\\req101306\\Desktop\\DontPanicLabs\\Stage1\\Week1\\Week1Practice\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

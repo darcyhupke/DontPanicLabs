@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\req101306\\Desktop\\DontPanicLabs\\week3\\musicclasspoly\\musicclasspoly.csproj",
+      "projectUniqueName": "C:\\Users\\req101306\\Desktop\\DontPanicLabs\\Stage1\\Week3\\musicClassPoly\\musicclasspoly.csproj",
       "projectName": "musicclasspoly",
-      "projectPath": "C:\\Users\\req101306\\Desktop\\DontPanicLabs\\week3\\musicclasspoly\\musicclasspoly.csproj",
+      "projectPath": "C:\\Users\\req101306\\Desktop\\DontPanicLabs\\Stage1\\Week3\\musicClassPoly\\musicclasspoly.csproj",
       "packagesPath": "C:\\Users\\req101306\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\req101306\\Desktop\\DontPanicLabs\\week3\\musicclasspoly\\obj\\",
+      "outputPath": "C:\\Users\\req101306\\Desktop\\DontPanicLabs\\Stage1\\Week3\\musicClassPoly\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\req101306\\Desktop\\DontPanicLabs\\week2challengebonus\\week2challengebonus.csproj",
+      "projectUniqueName": "C:\\Users\\req101306\\Desktop\\DontPanicLabs\\Stage1\\Week2\\Week2ChallengeBonus\\week2challengebonus.csproj",
       "projectName": "week2challengebonus",
-      "projectPath": "C:\\Users\\req101306\\Desktop\\DontPanicLabs\\week2challengebonus\\week2challengebonus.csproj",
+      "projectPath": "C:\\Users\\req101306\\Desktop\\DontPanicLabs\\Stage1\\Week2\\Week2ChallengeBonus\\week2challengebonus.csproj",
       "packagesPath": "C:\\Users\\req101306\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\req101306\\Desktop\\DontPanicLabs\\week2challengebonus\\obj\\",
+      "outputPath": "C:\\Users\\req101306\\Desktop\\DontPanicLabs\\Stage1\\Week2\\Week2ChallengeBonus\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,5 +1,5 @@
 ﻿﻿using System;
-using System.Collections.Generic;   // needed for Lists
+using System.Collections.Generic; //needed for Lists
 
 namespace listAbstractClass
 {
@@ -31,22 +31,32 @@ namespace listAbstractClass
         salaryEmployeeList.Add(new SalaryEmployee ("Enge", "Molly", "S", 60000));
 
         // Print the employee list
+        Console.WriteLine("Employee list");
         foreach (Employee anEmployee in employeeList)
-            {
+            {                
                 Console.WriteLine(anEmployee);
             }  // end foreach  
 
         // Print the hourly list
+        Console.WriteLine("Hourly list");
         foreach (HourlyEmployee anEmployee in hourlyEmployeeList)
-        {
+        {            
             Console.WriteLine(anEmployee);
         }  // end foreach  
 
         // Print the salary list
+        Console.WriteLine("Salary list");
         foreach (SalaryEmployee anEmployee in salaryEmployeeList)
         {
             Console.WriteLine(anEmployee);
-        }  // end foreach          
+        }  // end foreach     
+
+        Console.WriteLine("Enter new Salary Employee: ");
+        Console.WriteLine("First Name: ");
+        string sFirstName = Console.Readline();
+        Console.WriteLine("Last Name: ");
+        //string sLastName = Console.Readline();
+
 
     } // end Main
 

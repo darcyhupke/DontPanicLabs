@@ -1,6 +1,4 @@
-Smith,Hailey,H,17.25
-Jones,Tess,O,10000
 Mack,Freddy,S,500000
 Beam,Jim,H,25.22
 Ness,Luke,S,75000
-Hupke,Dave,S,108000
+Nelson,Willy,S,20000

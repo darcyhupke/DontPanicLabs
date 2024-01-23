@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\req101306\\Desktop\\DontPanicLabs\\week3\\restaurantclasspolymorphism\\restaurantclasspolymorphism.csproj": {}
+    "C:\\Users\\req101306\\Desktop\\DontPanicLabs\\Stage1\\Week3\\restaurantClassPolymorphism\\restaurantclasspolymorphism.csproj": {}
   },
   "projects": {
-    "C:\\Users\\req101306\\Desktop\\DontPanicLabs\\week3\\restaurantclasspolymorphism\\restaurantclasspolymorphism.csproj": {
+    "C:\\Users\\req101306\\Desktop\\DontPanicLabs\\Stage1\\Week3\\restaurantClassPolymorphism\\restaurantclasspolymorphism.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\req101306\\Desktop\\DontPanicLabs\\week3\\restaurantclasspolymorphism\\restaurantclasspolymorphism.csproj",
+        "projectUniqueName": "C:\\Users\\req101306\\Desktop\\DontPanicLabs\\Stage1\\Week3\\restaurantClassPolymorphism\\restaurantclasspolymorphism.csproj",
         "projectName": "restaurantclasspolymorphism",
-        "projectPath": "C:\\Users\\req101306\\Desktop\\DontPanicLabs\\week3\\restaurantclasspolymorphism\\restaurantclasspolymorphism.csproj",
+        "projectPath": "C:\\Users\\req101306\\Desktop\\DontPanicLabs\\Stage1\\Week3\\restaurantClassPolymorphism\\restaurantclasspolymorphism.csproj",
         "packagesPath": "C:\\Users\\req101306\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\req101306\\Desktop\\DontPanicLabs\\week3\\restaurantclasspolymorphism\\obj\\",
+        "outputPath": "C:\\Users\\req101306\\Desktop\\DontPanicLabs\\Stage1\\Week3\\restaurantClassPolymorphism\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
