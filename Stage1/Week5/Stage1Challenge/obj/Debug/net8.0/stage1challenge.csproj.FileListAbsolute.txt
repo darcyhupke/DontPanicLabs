@@ -1,0 +1,15 @@
+C:\Users\req101306\Desktop\DontPanicLabs\stage1\week5\stage1challenge\obj\Debug\net8.0\stage1challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\req101306\Desktop\DontPanicLabs\stage1\week5\stage1challenge\obj\Debug\net8.0\stage1challenge.AssemblyInfoInputs.cache
+C:\Users\req101306\Desktop\DontPanicLabs\stage1\week5\stage1challenge\obj\Debug\net8.0\stage1challenge.AssemblyInfo.cs
+C:\Users\req101306\Desktop\DontPanicLabs\stage1\week5\stage1challenge\obj\Debug\net8.0\stage1challenge.csproj.CoreCompileInputs.cache
+C:\Users\req101306\Desktop\DontPanicLabs\stage1\week5\stage1challenge\obj\Debug\net8.0\stage1challenge.sourcelink.json
+C:\Users\req101306\Desktop\DontPanicLabs\stage1\week5\stage1challenge\bin\Debug\net8.0\stage1challenge.exe
+C:\Users\req101306\Desktop\DontPanicLabs\stage1\week5\stage1challenge\bin\Debug\net8.0\stage1challenge.deps.json
+C:\Users\req101306\Desktop\DontPanicLabs\stage1\week5\stage1challenge\bin\Debug\net8.0\stage1challenge.runtimeconfig.json
+C:\Users\req101306\Desktop\DontPanicLabs\stage1\week5\stage1challenge\bin\Debug\net8.0\stage1challenge.dll
+C:\Users\req101306\Desktop\DontPanicLabs\stage1\week5\stage1challenge\bin\Debug\net8.0\stage1challenge.pdb
+C:\Users\req101306\Desktop\DontPanicLabs\stage1\week5\stage1challenge\obj\Debug\net8.0\stage1challenge.dll
+C:\Users\req101306\Desktop\DontPanicLabs\stage1\week5\stage1challenge\obj\Debug\net8.0\refint\stage1challenge.dll
+C:\Users\req101306\Desktop\DontPanicLabs\stage1\week5\stage1challenge\obj\Debug\net8.0\stage1challenge.pdb
+C:\Users\req101306\Desktop\DontPanicLabs\stage1\week5\stage1challenge\obj\Debug\net8.0\stage1challenge.genruntimeconfig.cache
+C:\Users\req101306\Desktop\DontPanicLabs\stage1\week5\stage1challenge\obj\Debug\net8.0\ref\stage1challenge.dll

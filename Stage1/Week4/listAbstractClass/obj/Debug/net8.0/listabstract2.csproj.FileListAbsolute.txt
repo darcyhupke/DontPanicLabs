@@ -1,0 +1,15 @@
+C:\Users\req101306\Desktop\DontPanicLabs\stage1\week4\listabstract2\obj\Debug\net8.0\listabstract2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\req101306\Desktop\DontPanicLabs\stage1\week4\listabstract2\obj\Debug\net8.0\listabstract2.AssemblyInfoInputs.cache
+C:\Users\req101306\Desktop\DontPanicLabs\stage1\week4\listabstract2\obj\Debug\net8.0\listabstract2.AssemblyInfo.cs
+C:\Users\req101306\Desktop\DontPanicLabs\stage1\week4\listabstract2\obj\Debug\net8.0\listabstract2.csproj.CoreCompileInputs.cache
+C:\Users\req101306\Desktop\DontPanicLabs\stage1\week4\listabstract2\obj\Debug\net8.0\listabstract2.sourcelink.json
+C:\Users\req101306\Desktop\DontPanicLabs\stage1\week4\listabstract2\bin\Debug\net8.0\listabstract2.exe
+C:\Users\req101306\Desktop\DontPanicLabs\stage1\week4\listabstract2\bin\Debug\net8.0\listabstract2.deps.json
+C:\Users\req101306\Desktop\DontPanicLabs\stage1\week4\listabstract2\bin\Debug\net8.0\listabstract2.runtimeconfig.json
+C:\Users\req101306\Desktop\DontPanicLabs\stage1\week4\listabstract2\bin\Debug\net8.0\listabstract2.dll
+C:\Users\req101306\Desktop\DontPanicLabs\stage1\week4\listabstract2\bin\Debug\net8.0\listabstract2.pdb
+C:\Users\req101306\Desktop\DontPanicLabs\stage1\week4\listabstract2\obj\Debug\net8.0\listabstract2.dll
+C:\Users\req101306\Desktop\DontPanicLabs\stage1\week4\listabstract2\obj\Debug\net8.0\refint\listabstract2.dll
+C:\Users\req101306\Desktop\DontPanicLabs\stage1\week4\listabstract2\obj\Debug\net8.0\listabstract2.pdb
+C:\Users\req101306\Desktop\DontPanicLabs\stage1\week4\listabstract2\obj\Debug\net8.0\listabstract2.genruntimeconfig.cache
+C:\Users\req101306\Desktop\DontPanicLabs\stage1\week4\listabstract2\obj\Debug\net8.0\ref\listabstract2.dll

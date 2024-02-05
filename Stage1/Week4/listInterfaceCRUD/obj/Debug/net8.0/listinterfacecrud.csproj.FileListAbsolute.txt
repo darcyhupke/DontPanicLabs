@@ -1,0 +1,15 @@
+C:\Users\req101306\Desktop\DontPanicLabs\stage1\week4\listinterfacecrud\bin\Debug\net8.0\listinterfacecrud.exe
+C:\Users\req101306\Desktop\DontPanicLabs\stage1\week4\listinterfacecrud\bin\Debug\net8.0\listinterfacecrud.deps.json
+C:\Users\req101306\Desktop\DontPanicLabs\stage1\week4\listinterfacecrud\bin\Debug\net8.0\listinterfacecrud.runtimeconfig.json
+C:\Users\req101306\Desktop\DontPanicLabs\stage1\week4\listinterfacecrud\bin\Debug\net8.0\listinterfacecrud.dll
+C:\Users\req101306\Desktop\DontPanicLabs\stage1\week4\listinterfacecrud\bin\Debug\net8.0\listinterfacecrud.pdb
+C:\Users\req101306\Desktop\DontPanicLabs\stage1\week4\listinterfacecrud\obj\Debug\net8.0\listinterfacecrud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\req101306\Desktop\DontPanicLabs\stage1\week4\listinterfacecrud\obj\Debug\net8.0\listinterfacecrud.AssemblyInfoInputs.cache
+C:\Users\req101306\Desktop\DontPanicLabs\stage1\week4\listinterfacecrud\obj\Debug\net8.0\listinterfacecrud.AssemblyInfo.cs
+C:\Users\req101306\Desktop\DontPanicLabs\stage1\week4\listinterfacecrud\obj\Debug\net8.0\listinterfacecrud.csproj.CoreCompileInputs.cache
+C:\Users\req101306\Desktop\DontPanicLabs\stage1\week4\listinterfacecrud\obj\Debug\net8.0\listinterfacecrud.sourcelink.json
+C:\Users\req101306\Desktop\DontPanicLabs\stage1\week4\listinterfacecrud\obj\Debug\net8.0\listinterfacecrud.dll
+C:\Users\req101306\Desktop\DontPanicLabs\stage1\week4\listinterfacecrud\obj\Debug\net8.0\refint\listinterfacecrud.dll
+C:\Users\req101306\Desktop\DontPanicLabs\stage1\week4\listinterfacecrud\obj\Debug\net8.0\listinterfacecrud.pdb
+C:\Users\req101306\Desktop\DontPanicLabs\stage1\week4\listinterfacecrud\obj\Debug\net8.0\listinterfacecrud.genruntimeconfig.cache
+C:\Users\req101306\Desktop\DontPanicLabs\stage1\week4\listinterfacecrud\obj\Debug\net8.0\ref\listinterfacecrud.dll

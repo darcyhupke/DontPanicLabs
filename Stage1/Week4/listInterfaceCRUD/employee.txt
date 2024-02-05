@@ -1,0 +1,6 @@
+Employee: Hupke,Darcy | Type: S
+Employee: Smith,Hailey | Type: H
+Employee: Hupke,Dave | Type: H | Hourly rate: $42.53 | Bonus: $3402.4
+Employee: Ness,Betty | Type: S | Annual salary: $75000 | Bonus: $7500
+Employee: Hupke,Freddy | Type: S | Annual salary: $150000 | Bonus: $15000
+Employee: Beam,Jim | Type: S | Annual salary: $10000 | Bonus: $1000

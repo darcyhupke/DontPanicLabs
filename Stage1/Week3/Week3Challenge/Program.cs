@@ -33,6 +33,7 @@ namespace employeeAPP
             //Declare variables
             bool userChoice;
             string userChoiceString;
+            string userChoiceUpper;
             const int rowSize = 25;
          
             Employee [] employeeArray = new Employee[rowSize];
@@ -51,7 +52,7 @@ namespace employeeAPP
                 {
                     //initialize variables
                     userChoice = false;
-
+                    
                     //user menu of options
                     Console.WriteLine("Employee Pay ");
                     Console.WriteLine("L: Load Employee file. ");
@@ -65,15 +66,23 @@ namespace employeeAPP
 
                     //get user option (valid means it's on the menu)
                     userChoiceString = Console.ReadLine();
-
-                    userChoice = (userChoiceString == "L" || userChoiceString == "l" ||
-                                  userChoiceString == "S" || userChoiceString == "s" ||
-                                  userChoiceString == "C" || userChoiceString == "c" ||
-                                  userChoiceString == "R" || userChoiceString == "r" ||
-                                  userChoiceString == "U" || userChoiceString == "u" ||
-                                  userChoiceString == "D" || userChoiceString == "d" ||
-                                  userChoiceString == "Q" || userChoiceString == "q");
+                    userChoiceUpper = userChoiceString.ToUpper();
                     
+                    //userChoice = (userChoiceString == "L" || userChoiceString == "l" ||
+                    //              userChoiceString == "S" || userChoiceString == "s" ||
+                    //              userChoiceString == "C" || userChoiceString == "c" ||
+                    //              userChoiceString == "R" || userChoiceString == "r" ||
+                    //              userChoiceString == "U" || userChoiceString == "u" ||
+                    //              userChoiceString == "D" || userChoiceString == "d" ||
+                    //              userChoiceString == "Q" || userChoiceString == "q");
+                    userChoice = (userChoiceUpper == "L" ||
+                                  userChoiceUpper == "S" ||
+                                  userChoiceUpper == "C" ||
+                                  userChoiceUpper == "R" ||
+                                  userChoiceUpper == "U" ||
+                                  userChoiceUpper == "D" ||
+                                  userChoiceUpper == "Q");
+
                     if (!userChoice)
                     {
                         Console.WriteLine("Please enter a valid option.");
@@ -82,7 +91,8 @@ namespace employeeAPP
                 } while (!userChoice);
 
                 //If option is L or l - load the text file into the array
-                if (userChoiceString == "L" || userChoiceString == "l")
+                //if (userChoiceString == "L" || userChoiceString == "l")
+                if (userChoiceUpper == "L")
                 {
                     Console.WriteLine("In the L/l area");
                     int indexRow = 0;
@@ -121,7 +131,8 @@ namespace employeeAPP
                 }
 
                 //If option is S or s - store the array back to the text file
-                else if (userChoiceString == "S" || userChoiceString == "s")
+                //else if (userChoiceString == "S" || userChoiceString == "s")
+                else if (userChoiceUpper == "S")
                 {
                     Console.WriteLine("In the S/s area");
                     Console.WriteLine(" ");
@@ -173,7 +184,8 @@ namespace employeeAPP
                 }
 
                 //If option is C or c - add an employee into the array
-                else if (userChoiceString == "C" || userChoiceString == "c")
+                //else if (userChoiceString == "C" || userChoiceString == "c")
+                else if (userChoiceUpper == "C")
                 {                    
                     Console.WriteLine("In the C/c area");
                     Console.WriteLine(" ");
@@ -246,7 +258,8 @@ namespace employeeAPP
                 }
                 
                 //If option is R or r - print the list of employees
-                else if (userChoiceString == "R" || userChoiceString == "r")
+                //else if (userChoiceString == "R" || userChoiceString == "r")
+                else if (userChoiceUpper == "R")
                 {
                     Console.WriteLine("In the R/r area");
                     Console.WriteLine(" ");
@@ -264,7 +277,8 @@ namespace employeeAPP
                 }
 
                 //If option is U or u - update an employee
-                else if (userChoiceString == "U" || userChoiceString == "u")
+                //else if (userChoiceString == "U" || userChoiceString == "u")
+                else if (userChoiceUpper == "U")
                 {
                     Console.WriteLine("In the U/u area");
                     Console.WriteLine("");
@@ -323,7 +337,8 @@ namespace employeeAPP
                 }
 
                 //If option is D or d - delete an employee
-                else if (userChoiceString == "D" || userChoiceString == "d")
+                //else if (userChoiceString == "D" || userChoiceString == "d")
+                else if (userChoiceUpper == "D")
                 {
                     Console.WriteLine("In the D/d area");
                     Console.WriteLine(" ");
@@ -360,7 +375,8 @@ namespace employeeAPP
                 {
                     Console.WriteLine("Thank you!");
                 }
-            } while (!(userChoiceString == "Q") && !(userChoiceString == "q"));
+            //} while (!(userChoiceString == "Q") && !(userChoiceString == "q"));
+            } while (!(userChoiceUpper == "Q"));
             
         } //Main close
        

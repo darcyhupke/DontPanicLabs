@@ -1,65 +1,56 @@
-﻿﻿using System;
+﻿using System;
 using System.Collections.Generic; //needed for Lists
 
 namespace listAbstractClass
 {
-  class Program
-  {
-    static void Main(string[] args)
+    class Program
     {
-
-        // Create a list of Employees
-        List<Employee> employeeList = new List<Employee>();
-        // Add an hourly employee
-        employeeList.Add(new HourlyEmployee("Enge", "J.S.", "H", 25.00));
-        // Add a salary employee
-        employeeList.Add(new SalaryEmployee("Enge", "Alec", "S", 15000));
-        // Add an employee? - Nope
-        // employeeList.Add(new Employee("Test", "test", "test"));
-
-        // Create a list of Hourly Employees
-        List<HourlyEmployee> hourlyEmployeeList = new List<HourlyEmployee>();  
-        // And, create a list of Salary Employees to test
-        List<SalaryEmployee> salaryEmployeeList = new List<SalaryEmployee>();  
-
-        // Add a couple of hourly employees to the hourly list to test
-        hourlyEmployeeList.Add(new HourlyEmployee ("Enge", "Colin", "H", 15.75));
-        hourlyEmployeeList.Add(new HourlyEmployee ("Enge", "Elle", "H", 25.73));
-
-        // Add a couple of salary employees to the salary list to test
-        salaryEmployeeList.Add(new SalaryEmployee ("Enge", "Anthony", "S", 45250));
-        salaryEmployeeList.Add(new SalaryEmployee ("Enge", "Molly", "S", 60000));
-
-        // Print the employee list
-        Console.WriteLine("Employee list");
-        foreach (Employee anEmployee in employeeList)
-            {                
-                Console.WriteLine(anEmployee);
-            }  // end foreach  
-
-        // Print the hourly list
-        Console.WriteLine("Hourly list");
-        foreach (HourlyEmployee anEmployee in hourlyEmployeeList)
-        {            
-            Console.WriteLine(anEmployee);
-        }  // end foreach  
-
-        // Print the salary list
-        Console.WriteLine("Salary list");
-        foreach (SalaryEmployee anEmployee in salaryEmployeeList)
+        static void Main(string[] args)
         {
-            Console.WriteLine(anEmployee);
-        }  // end foreach     
+            //Create a list of Employees
+            List<Employee> employeeList = new List<Employee>();
+            //Add an hourly employee
+            employeeList.Add(new HourlyEmployee("Hupke", "Darcy", "H", 23.25));
+            //Add a salary employee
+            employeeList.Add(new SalaryEmployee("Hupke", "Dave", "S", 150000));
 
-        Console.WriteLine("Enter new Salary Employee: ");
-        Console.WriteLine("First Name: ");
-        string sFirstName = Console.Readline();
-        Console.WriteLine("Last Name: ");
-        //string sLastName = Console.Readline();
+            //Create a list of Hourly Employees to test with
+            List<HourlyEmployee> hourlyEmployeeList = new List<HourlyEmployee>();
+            //Create a list of Salarly Employees to test with
+            List<SalaryEmployee> salaryEmployeeList = new List<SalaryEmployee>();
 
+            //add a couple of hourly employees to the hourly list to test
+            hourlyEmployeeList.Add(new HourlyEmployee ("Hupke", "Cooper", "H", 17.20));
+            hourlyEmployeeList.Add(new HourlyEmployee ("Hupke", "Hailey", "H", 19.45));
 
-    } // end Main
+            //add a couple of salary employees to the salary list
+            salaryEmployeeList.Add(new SalaryEmployee ("Jones", "Tess", "S", 74545));
+            salaryEmployeeList.Add(new SalaryEmployee ("Ness", "Luke", "S", 98050));
 
-  }  // end class Program
+            //Print the employee list
+            Console.WriteLine("Employee list");
+            foreach (Employee anEmployee in employeeList)
+            {
+                Console.WriteLine(anEmployee);
+            }
 
-}  // end nameSspace
+            //Print the hourly list
+            Console.WriteLine("Hourly list");
+            foreach (HourlyEmployee anEmployee in hourlyEmployeeList)
+            {
+                Console.WriteLine(anEmployee);
+            }
+
+            //Print the salary list
+            Console.WriteLine("Salary list");
+
+            foreach (SalaryEmployee anEmployee in salaryEmployeeList)
+            {
+                Console.WriteLine(anEmployee);
+            }
+
+            Console.WriteLine("Enter name: ");
+            string name = Console.ReadLine();
+        }   
+    }//end class
+}//end namspace

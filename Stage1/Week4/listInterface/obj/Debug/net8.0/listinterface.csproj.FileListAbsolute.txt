@@ -1,0 +1,15 @@
+C:\Users\req101306\Desktop\DontPanicLabs\stage1\week4\listinterface\obj\Debug\net8.0\listinterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\req101306\Desktop\DontPanicLabs\stage1\week4\listinterface\obj\Debug\net8.0\listinterface.AssemblyInfoInputs.cache
+C:\Users\req101306\Desktop\DontPanicLabs\stage1\week4\listinterface\obj\Debug\net8.0\listinterface.AssemblyInfo.cs
+C:\Users\req101306\Desktop\DontPanicLabs\stage1\week4\listinterface\obj\Debug\net8.0\listinterface.csproj.CoreCompileInputs.cache
+C:\Users\req101306\Desktop\DontPanicLabs\stage1\week4\listinterface\obj\Debug\net8.0\listinterface.sourcelink.json
+C:\Users\req101306\Desktop\DontPanicLabs\stage1\week4\listinterface\bin\Debug\net8.0\listinterface.exe
+C:\Users\req101306\Desktop\DontPanicLabs\stage1\week4\listinterface\bin\Debug\net8.0\listinterface.deps.json
+C:\Users\req101306\Desktop\DontPanicLabs\stage1\week4\listinterface\bin\Debug\net8.0\listinterface.runtimeconfig.json
+C:\Users\req101306\Desktop\DontPanicLabs\stage1\week4\listinterface\bin\Debug\net8.0\listinterface.dll
+C:\Users\req101306\Desktop\DontPanicLabs\stage1\week4\listinterface\bin\Debug\net8.0\listinterface.pdb
+C:\Users\req101306\Desktop\DontPanicLabs\stage1\week4\listinterface\obj\Debug\net8.0\listinterface.dll
+C:\Users\req101306\Desktop\DontPanicLabs\stage1\week4\listinterface\obj\Debug\net8.0\refint\listinterface.dll
+C:\Users\req101306\Desktop\DontPanicLabs\stage1\week4\listinterface\obj\Debug\net8.0\listinterface.pdb
+C:\Users\req101306\Desktop\DontPanicLabs\stage1\week4\listinterface\obj\Debug\net8.0\listinterface.genruntimeconfig.cache
+C:\Users\req101306\Desktop\DontPanicLabs\stage1\week4\listinterface\obj\Debug\net8.0\ref\listinterface.dll
