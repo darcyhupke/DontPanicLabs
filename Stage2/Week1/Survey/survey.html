@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Best Season Survey</title>
+
+    <link rel="stylesheet" href="survey.css">
+     
+    <script>
+      function myFunction() {
+          var newname = document.getElementById("name").value;
+          alert ("Survey received!  Thank you " + newname + "!");
+      }
+  </script>
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+          <h1 id="title" class="text-center">Best Season Survey</h1>
+          <h3 id="description" class="description text-center">
+            Thank you for taking the time to prove what season is the best!
+          </h3>
+
+          <img src="seasonpic.JPG" class="pic-center" width="500" height="500">
+
+        </header>
+        <form id="survey-form" onsubmit="myFunction()">
+          <div class="form-group">
+            <label id="name-label" for="name">Name</label>
+            <input
+              type="text"
+              name="name"
+              id="name"
+              class="form-control"
+              placeholder="Enter your name"
+              required
+            />
+          </div>
+          <div class="form-group">
+            <label id="email-label" for="email">Email</label>
+            <input
+              type="email"
+              name="email"
+              id="email"
+              class="form-control"
+              placeholder="Enter your Email"
+              required
+            />
+          </div>
+          <div class="form-group">
+            <p>Please select your age range.</p>
+            <select id="dropdown" name="role" class="form-control" required>
+              <option disabled selected value>Select age range</option>
+              <option value="youth">0-18</option>
+              <option value="youngadult">19-40</option>
+              <option value="adult">41-55</option>
+              <option value="middleage">56-70</option>
+              <option value="elderly">71 and older</option>
+            </select>
+          </div>
+      
+          <div class="form-group">
+            <p>What season is your favorite?</p>
+            <label>
+              <input
+                name="user-recommend"
+                value="winter"
+                type="radio"
+                class="input-radio"
+              />Winter</label
+            >
+            <label>
+              <input
+                name="user-recommend"
+                value="sprint"
+                type="radio"
+                class="input-radio"
+              />Spring</label
+            >
+      
+            <label
+              ><input
+                name="user-recommend"
+                value="summer"
+                type="radio"
+                class="input-radio"
+              />Summer</label
+            >
+            <label
+              ><input
+                name="user-recommend"
+                value="fall"
+                type="radio"
+                class="input-radio"
+              />Fall</label
+            >
+          </div>
+      
+      
+          <div class="form-group">
+            <p>
+              What are your favorite outdoor activies?
+              <span class="clue">(Check all that apply)</span>
+            </p>
+      
+            <label
+              ><input
+                name="prefer"
+                value="beach"
+                type="checkbox"
+                class="input-checkbox"
+              />Time at the beach (Anything in the water and sand is my jam!)</label
+            >
+            <label>
+              <input
+                name="prefer"
+                value="snow"
+                type="checkbox"
+                class="input-checkbox"
+              />Winter sports (Anything in the snow is great!)</label
+            >
+            <label
+              ><input
+                name="prefer"
+                value="walks"
+                type="checkbox"
+                class="input-checkbox"
+              />Walks or hiking (I love the nature!)</label
+            >
+            <label
+              ><input
+                name="prefer"
+                value="inside"
+                type="checkbox"
+                class="input-checkbox"
+              />I might be alergic to fresh air (Indoor activies are my favorite!)</label
+            >
+       
+          </div>
+      
+          <div class="form-group">
+            <p>Let us know what makes your selection your favorite.</p>
+            <textarea
+              id="comments"
+              class="input-textarea"
+              name="comment"
+              placeholder="Enter your comment here..."
+            ></textarea>
+          </div>
+      
+          <div class="form-group">
+            <button type="submit" id="submit" class="submit-button">
+              Submit
+            </button>
+          </div>
+        </form>
+      </div>
+      
+
+</body>
+</html>

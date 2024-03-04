@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Module 3 Exercise - Javascript Sampling</title>
+
+    <link rel="stylesheet" href="todo.css">
+    <script src="todo.js"></script>
+</head>
+<body>
+    <h1>List builder</h1>
+    <div class="myflexboxRow">
+        <div class="myflexboxColumn">
+            <h2>Form to list my daily tasks</h2>
+            <form name="myForm">
+                Word to list: <input type="text" name="newTask" value=""><br />
+                <input type="button" value="Add to list" onclick="validateANDadd()">
+            </form>
+        </div>
+        <div class="myflexboxColumn">
+            <h2>List 1</h2>
+            <table id="myTaskList">
+            </table>
+            <br /> <br />
+            <input type="button" value="Clear the list" onclick="clearList1()">
+        </div>        
+    </div>    
+</body>
+</html>

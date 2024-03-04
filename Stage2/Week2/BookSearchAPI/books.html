@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Book List API</title>
+
+    <link rel="stylesheet" href="books.css">
+    <script src="books.js"></script>
+
+</head>
+<body>
+    <h1> Book List Generator </h1>
+    <div class="myflexboxRow">
+        <div class="myflexboxColumn">
+            <h2>Books by Category:</h2>
+            <label for="bookCategory">Select a category:</label>
+            <select name="bookCategory" id="bookCategory">
+                <option disabled selected value="default">Select an option</option>
+                <option value="love">Love</option>
+                <option value="action">Action</option>
+                <option value="cat">Cats</option>           
+            </select>
+            <br /><br /> 
+            <input type="button" value="Show Me The Books" onclick="getBooks()">
+        </div>
+        <div class="myflexboxColumn">
+            <h2>Book list</h2>
+            <p id="myBookTitle"></p>      
+        </div>              
+    </div> 
+</body>
+</html>

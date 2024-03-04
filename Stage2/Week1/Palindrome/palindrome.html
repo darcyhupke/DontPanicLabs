@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Palindrome exercise</title>
+
+    <link rel="stylesheet" href="palindrome.css">
+    <script src="palindrome.js"></script>
+</head>
+<body>
+    <h1> Palindrome Word Check</h1>
+    <div class="myflexboxRow">
+        <div class="myflexboxColumn">
+            <h2>Form to obtain a word and check if it is a palindrome</h2>
+            <form name="myForm">
+                Word to check: <input type="text" name="newWord" value=""><br />
+                Which algorithm (1, 2, or 3)?: <input type="number" name="newNumber" value=""><br /><br />
+                <input type="button" value="Check and add to list" onclick="validateANDadd()">
+            </form>
+        </div>
+        <div class="myflexboxColumn">
+            <h2>Algorithm 1</h2>
+            <table id="myList1">
+            </table>
+            <br /> <br />
+            <input type="button" value="Clear the list" onclick="clearList1()">
+        </div>
+        <div class="myflexboxColumn">
+            <h2>Algorithm 2</h2>
+            <table id="myList2">
+            </table>
+            <br /> <br />
+            <input type="button" value="Clear the list" onclick="clearList2()">
+        </div>
+        <div class="myflexboxColumn">
+            <h2>Algorithm 3</h2>
+            <table id="myList3">
+            </table>
+            <br /> <br />
+            <input type="button" value="Clear the list" onclick="clearList3()">
+        </div>
+    </div> 
+    
+    <img src="palindrome.JPG" class="" width="300" height="300">
+</body>
+</html>

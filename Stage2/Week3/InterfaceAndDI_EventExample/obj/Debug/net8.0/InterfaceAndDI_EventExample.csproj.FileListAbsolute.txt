@@ -1,0 +1,15 @@
+C:\Users\req101306\Desktop\DontPanicLabs\Stage2\Week3\InterfaceAndDI_EventExample\bin\Debug\net8.0\InterfaceAndDI_EventExample.exe
+C:\Users\req101306\Desktop\DontPanicLabs\Stage2\Week3\InterfaceAndDI_EventExample\bin\Debug\net8.0\InterfaceAndDI_EventExample.deps.json
+C:\Users\req101306\Desktop\DontPanicLabs\Stage2\Week3\InterfaceAndDI_EventExample\bin\Debug\net8.0\InterfaceAndDI_EventExample.runtimeconfig.json
+C:\Users\req101306\Desktop\DontPanicLabs\Stage2\Week3\InterfaceAndDI_EventExample\bin\Debug\net8.0\InterfaceAndDI_EventExample.dll
+C:\Users\req101306\Desktop\DontPanicLabs\Stage2\Week3\InterfaceAndDI_EventExample\bin\Debug\net8.0\InterfaceAndDI_EventExample.pdb
+C:\Users\req101306\Desktop\DontPanicLabs\Stage2\Week3\InterfaceAndDI_EventExample\obj\Debug\net8.0\InterfaceAndDI_EventExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\req101306\Desktop\DontPanicLabs\Stage2\Week3\InterfaceAndDI_EventExample\obj\Debug\net8.0\InterfaceAndDI_EventExample.AssemblyInfoInputs.cache
+C:\Users\req101306\Desktop\DontPanicLabs\Stage2\Week3\InterfaceAndDI_EventExample\obj\Debug\net8.0\InterfaceAndDI_EventExample.AssemblyInfo.cs
+C:\Users\req101306\Desktop\DontPanicLabs\Stage2\Week3\InterfaceAndDI_EventExample\obj\Debug\net8.0\InterfaceAndDI_EventExample.csproj.CoreCompileInputs.cache
+C:\Users\req101306\Desktop\DontPanicLabs\Stage2\Week3\InterfaceAndDI_EventExample\obj\Debug\net8.0\InterfaceAndDI_EventExample.sourcelink.json
+C:\Users\req101306\Desktop\DontPanicLabs\Stage2\Week3\InterfaceAndDI_EventExample\obj\Debug\net8.0\InterfaceAndDI_EventExample.dll
+C:\Users\req101306\Desktop\DontPanicLabs\Stage2\Week3\InterfaceAndDI_EventExample\obj\Debug\net8.0\refint\InterfaceAndDI_EventExample.dll
+C:\Users\req101306\Desktop\DontPanicLabs\Stage2\Week3\InterfaceAndDI_EventExample\obj\Debug\net8.0\InterfaceAndDI_EventExample.pdb
+C:\Users\req101306\Desktop\DontPanicLabs\Stage2\Week3\InterfaceAndDI_EventExample\obj\Debug\net8.0\InterfaceAndDI_EventExample.genruntimeconfig.cache
+C:\Users\req101306\Desktop\DontPanicLabs\Stage2\Week3\InterfaceAndDI_EventExample\obj\Debug\net8.0\ref\InterfaceAndDI_EventExample.dll

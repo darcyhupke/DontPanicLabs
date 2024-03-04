@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "8wv17+Q7xMzL1fyJuTkwerPy6Z0/w/kbwMtRzPi5gl1RXpNRFY4Izr6umjEvsb21jIOXHSUMTK40lRJqmi2Y2g==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\req101306\\Desktop\\DontPanicLabs\\Stage2\\Week3\\TodoApi\\TodoApi\\TodoApi.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Swashbuckle.AspNetCore. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Swashbuckle.AspNetCore",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\req101306\Desktop\DontPanicLabs\Stage2\Week3\WhiskeyApp\bin\Debug\net8.0\WhiskeyApp.exe
+C:\Users\req101306\Desktop\DontPanicLabs\Stage2\Week3\WhiskeyApp\bin\Debug\net8.0\WhiskeyApp.deps.json
+C:\Users\req101306\Desktop\DontPanicLabs\Stage2\Week3\WhiskeyApp\bin\Debug\net8.0\WhiskeyApp.runtimeconfig.json
+C:\Users\req101306\Desktop\DontPanicLabs\Stage2\Week3\WhiskeyApp\bin\Debug\net8.0\WhiskeyApp.dll
+C:\Users\req101306\Desktop\DontPanicLabs\Stage2\Week3\WhiskeyApp\bin\Debug\net8.0\WhiskeyApp.pdb
+C:\Users\req101306\Desktop\DontPanicLabs\Stage2\Week3\WhiskeyApp\obj\Debug\net8.0\WhiskeyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\req101306\Desktop\DontPanicLabs\Stage2\Week3\WhiskeyApp\obj\Debug\net8.0\WhiskeyApp.AssemblyInfoInputs.cache
+C:\Users\req101306\Desktop\DontPanicLabs\Stage2\Week3\WhiskeyApp\obj\Debug\net8.0\WhiskeyApp.AssemblyInfo.cs
+C:\Users\req101306\Desktop\DontPanicLabs\Stage2\Week3\WhiskeyApp\obj\Debug\net8.0\WhiskeyApp.csproj.CoreCompileInputs.cache
+C:\Users\req101306\Desktop\DontPanicLabs\Stage2\Week3\WhiskeyApp\obj\Debug\net8.0\WhiskeyApp.sourcelink.json
+C:\Users\req101306\Desktop\DontPanicLabs\Stage2\Week3\WhiskeyApp\obj\Debug\net8.0\WhiskeyApp.dll
+C:\Users\req101306\Desktop\DontPanicLabs\Stage2\Week3\WhiskeyApp\obj\Debug\net8.0\refint\WhiskeyApp.dll
+C:\Users\req101306\Desktop\DontPanicLabs\Stage2\Week3\WhiskeyApp\obj\Debug\net8.0\WhiskeyApp.pdb
+C:\Users\req101306\Desktop\DontPanicLabs\Stage2\Week3\WhiskeyApp\obj\Debug\net8.0\WhiskeyApp.genruntimeconfig.cache
+C:\Users\req101306\Desktop\DontPanicLabs\Stage2\Week3\WhiskeyApp\obj\Debug\net8.0\ref\WhiskeyApp.dll

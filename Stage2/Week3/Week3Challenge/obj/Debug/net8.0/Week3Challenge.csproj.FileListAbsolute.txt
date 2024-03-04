@@ -1,0 +1,15 @@
+C:\Users\req101306\Desktop\DontPanicLabs\Stage2\Week3\Week3Challenge\bin\Debug\net8.0\Week3Challenge.exe
+C:\Users\req101306\Desktop\DontPanicLabs\Stage2\Week3\Week3Challenge\bin\Debug\net8.0\Week3Challenge.deps.json
+C:\Users\req101306\Desktop\DontPanicLabs\Stage2\Week3\Week3Challenge\bin\Debug\net8.0\Week3Challenge.runtimeconfig.json
+C:\Users\req101306\Desktop\DontPanicLabs\Stage2\Week3\Week3Challenge\bin\Debug\net8.0\Week3Challenge.dll
+C:\Users\req101306\Desktop\DontPanicLabs\Stage2\Week3\Week3Challenge\bin\Debug\net8.0\Week3Challenge.pdb
+C:\Users\req101306\Desktop\DontPanicLabs\Stage2\Week3\Week3Challenge\obj\Debug\net8.0\Week3Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\req101306\Desktop\DontPanicLabs\Stage2\Week3\Week3Challenge\obj\Debug\net8.0\Week3Challenge.AssemblyInfoInputs.cache
+C:\Users\req101306\Desktop\DontPanicLabs\Stage2\Week3\Week3Challenge\obj\Debug\net8.0\Week3Challenge.AssemblyInfo.cs
+C:\Users\req101306\Desktop\DontPanicLabs\Stage2\Week3\Week3Challenge\obj\Debug\net8.0\Week3Challenge.csproj.CoreCompileInputs.cache
+C:\Users\req101306\Desktop\DontPanicLabs\Stage2\Week3\Week3Challenge\obj\Debug\net8.0\Week3Challenge.sourcelink.json
+C:\Users\req101306\Desktop\DontPanicLabs\Stage2\Week3\Week3Challenge\obj\Debug\net8.0\Week3Challenge.dll
+C:\Users\req101306\Desktop\DontPanicLabs\Stage2\Week3\Week3Challenge\obj\Debug\net8.0\refint\Week3Challenge.dll
+C:\Users\req101306\Desktop\DontPanicLabs\Stage2\Week3\Week3Challenge\obj\Debug\net8.0\Week3Challenge.pdb
+C:\Users\req101306\Desktop\DontPanicLabs\Stage2\Week3\Week3Challenge\obj\Debug\net8.0\Week3Challenge.genruntimeconfig.cache
+C:\Users\req101306\Desktop\DontPanicLabs\Stage2\Week3\Week3Challenge\obj\Debug\net8.0\ref\Week3Challenge.dll

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Random Quote API</title>
+
+    <link rel="stylesheet" href="quote.css">
+    <script src="quote.js"></script>
+</head>
+<body>
+    <h1> Random Quote Generator </h1>
+    <div class="myflexboxRow">
+        <div class="myflexboxColumn">
+            <h2>Find a quote:</h2>
+            <label for="quoteLength">How long of a quote you would like?</label>
+            <select name="quoteLength" id="quoteLength">
+                <option value=1>Make it short.</option>
+                <option value=2>Make it medium.</option>
+                <option value=3>Make it long.</option>           
+            </select>
+            <br /><br />  
+            <input type="button" value="Show Me The Quote" onclick="getRandomQuote()">
+        </div>
+        <div class="myflexboxColumn">
+            <h2>Random Quote</h2>
+            <p id="myRandomQuote"></p>  
+            <p id="myRandomAuthor"></p>          
+        </div>              
+    </div> 
+</body>
+</html>

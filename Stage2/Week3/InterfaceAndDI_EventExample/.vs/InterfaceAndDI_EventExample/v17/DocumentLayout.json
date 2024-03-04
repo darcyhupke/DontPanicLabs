@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\req101306\\Desktop\\DontPanicLabs\\Stage2\\Week3\\InterfaceAndDI_EventExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E231713-FAD6-4D3B-81AF-B0E3EB33A497}|InterfaceAndDI_EventExample.csproj|c:\\users\\req101306\\desktop\\dontpaniclabs\\stage2\\week3\\interfaceanddi_eventexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E231713-FAD6-4D3B-81AF-B0E3EB33A497}|InterfaceAndDI_EventExample.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E231713-FAD6-4D3B-81AF-B0E3EB33A497}|InterfaceAndDI_EventExample.csproj|c:\\users\\req101306\\desktop\\dontpaniclabs\\stage2\\week3\\interfaceanddi_eventexample\\alecparty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E231713-FAD6-4D3B-81AF-B0E3EB33A497}|InterfaceAndDI_EventExample.csproj|solutionrelative:alecparty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E231713-FAD6-4D3B-81AF-B0E3EB33A497}|InterfaceAndDI_EventExample.csproj|c:\\users\\req101306\\desktop\\dontpaniclabs\\stage2\\week3\\interfaceanddi_eventexample\\weddingevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E231713-FAD6-4D3B-81AF-B0E3EB33A497}|InterfaceAndDI_EventExample.csproj|solutionrelative:weddingevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E231713-FAD6-4D3B-81AF-B0E3EB33A497}|InterfaceAndDI_EventExample.csproj|c:\\users\\req101306\\desktop\\dontpaniclabs\\stage2\\week3\\interfaceanddi_eventexample\\birthdayevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E231713-FAD6-4D3B-81AF-B0E3EB33A497}|InterfaceAndDI_EventExample.csproj|solutionrelative:birthdayevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E231713-FAD6-4D3B-81AF-B0E3EB33A497}|InterfaceAndDI_EventExample.csproj|c:\\users\\req101306\\desktop\\dontpaniclabs\\stage2\\week3\\interfaceanddi_eventexample\\graduationevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E231713-FAD6-4D3B-81AF-B0E3EB33A497}|InterfaceAndDI_EventExample.csproj|solutionrelative:graduationevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E231713-FAD6-4D3B-81AF-B0E3EB33A497}|InterfaceAndDI_EventExample.csproj|c:\\users\\req101306\\desktop\\dontpaniclabs\\stage2\\week3\\interfaceanddi_eventexample\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E231713-FAD6-4D3B-81AF-B0E3EB33A497}|InterfaceAndDI_EventExample.csproj|solutionrelative:eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E231713-FAD6-4D3B-81AF-B0E3EB33A497}|InterfaceAndDI_EventExample.csproj|c:\\users\\req101306\\desktop\\dontpaniclabs\\stage2\\week3\\interfaceanddi_eventexample\\ievent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E231713-FAD6-4D3B-81AF-B0E3EB33A497}|InterfaceAndDI_EventExample.csproj|solutionrelative:ievent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AlecParty.cs",
+              "DocumentMoniker": "C:\\Users\\req101306\\Desktop\\DontPanicLabs\\Stage2\\Week3\\InterfaceAndDI_EventExample\\AlecParty.cs",
+              "RelativeDocumentMoniker": "AlecParty.cs",
+              "ToolTip": "C:\\Users\\req101306\\Desktop\\DontPanicLabs\\Stage2\\Week3\\InterfaceAndDI_EventExample\\AlecParty.cs",
+              "RelativeToolTip": "AlecParty.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T19:58:28.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EventService.cs",
+              "DocumentMoniker": "C:\\Users\\req101306\\Desktop\\DontPanicLabs\\Stage2\\Week3\\InterfaceAndDI_EventExample\\EventService.cs",
+              "RelativeDocumentMoniker": "EventService.cs",
+              "ToolTip": "C:\\Users\\req101306\\Desktop\\DontPanicLabs\\Stage2\\Week3\\InterfaceAndDI_EventExample\\EventService.cs",
+              "RelativeToolTip": "EventService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T18:29:23.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GraduationEvent.cs",
+              "DocumentMoniker": "C:\\Users\\req101306\\Desktop\\DontPanicLabs\\Stage2\\Week3\\InterfaceAndDI_EventExample\\GraduationEvent.cs",
+              "RelativeDocumentMoniker": "GraduationEvent.cs",
+              "ToolTip": "C:\\Users\\req101306\\Desktop\\DontPanicLabs\\Stage2\\Week3\\InterfaceAndDI_EventExample\\GraduationEvent.cs",
+              "RelativeToolTip": "GraduationEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T18:28:48.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BirthdayEvent.cs",
+              "DocumentMoniker": "C:\\Users\\req101306\\Desktop\\DontPanicLabs\\Stage2\\Week3\\InterfaceAndDI_EventExample\\BirthdayEvent.cs",
+              "RelativeDocumentMoniker": "BirthdayEvent.cs",
+              "ToolTip": "C:\\Users\\req101306\\Desktop\\DontPanicLabs\\Stage2\\Week3\\InterfaceAndDI_EventExample\\BirthdayEvent.cs",
+              "RelativeToolTip": "BirthdayEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T18:28:35.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeddingEvent.cs",
+              "DocumentMoniker": "C:\\Users\\req101306\\Desktop\\DontPanicLabs\\Stage2\\Week3\\InterfaceAndDI_EventExample\\WeddingEvent.cs",
+              "RelativeDocumentMoniker": "WeddingEvent.cs",
+              "ToolTip": "C:\\Users\\req101306\\Desktop\\DontPanicLabs\\Stage2\\Week3\\InterfaceAndDI_EventExample\\WeddingEvent.cs",
+              "RelativeToolTip": "WeddingEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T18:28:19.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEvent.cs",
+              "DocumentMoniker": "C:\\Users\\req101306\\Desktop\\DontPanicLabs\\Stage2\\Week3\\InterfaceAndDI_EventExample\\IEvent.cs",
+              "RelativeDocumentMoniker": "IEvent.cs",
+              "ToolTip": "C:\\Users\\req101306\\Desktop\\DontPanicLabs\\Stage2\\Week3\\InterfaceAndDI_EventExample\\IEvent.cs",
+              "RelativeToolTip": "IEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T18:27:35.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\req101306\\Desktop\\DontPanicLabs\\Stage2\\Week3\\InterfaceAndDI_EventExample\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\req101306\\Desktop\\DontPanicLabs\\Stage2\\Week3\\InterfaceAndDI_EventExample\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T18:26:25.923Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

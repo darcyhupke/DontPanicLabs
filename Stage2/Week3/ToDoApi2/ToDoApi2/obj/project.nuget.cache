@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "tlQDrZckr+GsQkbR07RnIMPOZ5Ce6ROCDaN9BpEqtaXSTN85PnvfJOBC3y2xrA5fdT9FDVz970/WJHvqA0NKcg==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\req101306\\Desktop\\DontPanicLabs\\Stage2\\Week3\\ToDoApi2\\ToDoApi2\\ToDoApi2.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.AspNetCore.OpenApi. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.AspNetCore.OpenApi",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Swashbuckle.AspNetCore. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Swashbuckle.AspNetCore",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
+}

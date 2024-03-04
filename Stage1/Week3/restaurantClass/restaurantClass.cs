@@ -33,7 +33,7 @@ namespace restaurantAPP
             RRating = newRating;
         }
         
-        //  Since RName is not defined as a property, we need to create the get and set mehtods
+        //  Since RName is not defined as a property, we need to create the get and set methods
         //  for it.
         public string getName()
         {

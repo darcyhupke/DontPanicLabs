@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>To Do List</title>
+        <link rel="stylesheet" href="todolist.css" />
+    </head>  
+    <!--create the components for the app
+            1. main container div with ID todo-app
+            2. heading for the app
+            3. form with the input field and a submit button
+            4. unordered list for where tasks will be displayed-->                     
+    <body>        
+        <!--Main container-->
+        <div id="todo-app">
+            <h1>My To-Do List</h1>
+            <!--form with a field to enter new task with a submit button-->
+            <form id="todo-form">
+                <input type="text" id="todo-input" placeholder="Add a new task.">
+                <button type="submit">Add Task</button>                 
+            </form>
+            <!--unordered list where tasks will be displayed-->
+            <ul id="todo-list">
+                <!--Main container-->
+            </ul>
+        <!--add heading and button to clear all tasks-->    
+        </div> 
+            <h3>Click Clear List to remove all tasks.</h3>
+            <button id="clear-list" type="submit">Clear List</button>
+        </div> 
+             
+        <!--I originally had the js script at the start of my body but my addEventListener 
+            was receiveing an error and a google search showed that the JS script tag 
+            should be placed after the HTML elements have been declared. moving to the bottom 
+            of the body tag corrected the error-->
+        <script type="text/javascript" src="todolist.js"></script> 
+    </body>
+</html>

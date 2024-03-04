@@ -1,0 +1,15 @@
+C:\Users\req101306\Desktop\DontPanicLabs\Stage2\Week3\CalculatorMVC\bin\Debug\net8.0\CalculatorMVC.exe
+C:\Users\req101306\Desktop\DontPanicLabs\Stage2\Week3\CalculatorMVC\bin\Debug\net8.0\CalculatorMVC.deps.json
+C:\Users\req101306\Desktop\DontPanicLabs\Stage2\Week3\CalculatorMVC\bin\Debug\net8.0\CalculatorMVC.runtimeconfig.json
+C:\Users\req101306\Desktop\DontPanicLabs\Stage2\Week3\CalculatorMVC\bin\Debug\net8.0\CalculatorMVC.dll
+C:\Users\req101306\Desktop\DontPanicLabs\Stage2\Week3\CalculatorMVC\bin\Debug\net8.0\CalculatorMVC.pdb
+C:\Users\req101306\Desktop\DontPanicLabs\Stage2\Week3\CalculatorMVC\obj\Debug\net8.0\CalculatorMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\req101306\Desktop\DontPanicLabs\Stage2\Week3\CalculatorMVC\obj\Debug\net8.0\CalculatorMVC.AssemblyInfoInputs.cache
+C:\Users\req101306\Desktop\DontPanicLabs\Stage2\Week3\CalculatorMVC\obj\Debug\net8.0\CalculatorMVC.AssemblyInfo.cs
+C:\Users\req101306\Desktop\DontPanicLabs\Stage2\Week3\CalculatorMVC\obj\Debug\net8.0\CalculatorMVC.csproj.CoreCompileInputs.cache
+C:\Users\req101306\Desktop\DontPanicLabs\Stage2\Week3\CalculatorMVC\obj\Debug\net8.0\CalculatorMVC.sourcelink.json
+C:\Users\req101306\Desktop\DontPanicLabs\Stage2\Week3\CalculatorMVC\obj\Debug\net8.0\CalculatorMVC.dll
+C:\Users\req101306\Desktop\DontPanicLabs\Stage2\Week3\CalculatorMVC\obj\Debug\net8.0\refint\CalculatorMVC.dll
+C:\Users\req101306\Desktop\DontPanicLabs\Stage2\Week3\CalculatorMVC\obj\Debug\net8.0\CalculatorMVC.pdb
+C:\Users\req101306\Desktop\DontPanicLabs\Stage2\Week3\CalculatorMVC\obj\Debug\net8.0\CalculatorMVC.genruntimeconfig.cache
+C:\Users\req101306\Desktop\DontPanicLabs\Stage2\Week3\CalculatorMVC\obj\Debug\net8.0\ref\CalculatorMVC.dll

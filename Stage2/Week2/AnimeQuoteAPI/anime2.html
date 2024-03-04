@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anime Quote API</title>
+
+    <link rel="stylesheet" href="anime2.css">
+    <script src="anime2.js"></script>
+</head>
+<body>
+    <h1> Anime Quote Generator </h1>
+    <div class="myflexboxRow">
+        <div class="myflexboxColumn">
+            <h2>Quotes by Anime Characters:</h2>
+            <label for="animeCharacter">Select an anime character:</label> 
+            <br />
+            <select name="animeCharacter" id="animeCharacter">
+                <option disabled selected value="default">Select an Anime Character</option>
+                <option value="saitama">Saitama</option>
+                <option value="maka albarn">Maka Albarn</option>
+                <option value="ty lee">Ty Lee</option>  
+                <option value="little demon">Little Demon</option>   
+                <option value="shippou">Shippou</option>   
+                <option value="gi-han">Gi-gan</option> 
+                <option value="diethard ried">Diethard Ried</option> 
+                <option value="pikachu">Pikachu</option> 
+                <option value="hachiman hikigaya">Hachiman Hikigaya</option> 
+                <option value="charles zi britannia">Charles Zi Britannia</option> 
+            </select>
+          
+            <!--<input type="button" value="Show Me The Character Quote" onclick="getQuote()"> -->
+            <h2>Quotes by Anime:</h2> 
+            <label for="animeAnime">Select an anime:</label>
+            <br />
+            <select name="animeAnime" id="animeAnime">
+                <option disabled selected value="default">Select an Anime</option>
+                <option value="soul eater">Soul Eater</option>
+                <option value="naruto">Naruto</option>
+                <option value="gintama">Gintama</option>
+                <option value="samurai champloo">Samurai Champloo</option>  
+                <option value="vinland saga">Vinland Saga</option>  
+                <option value="pokemon">Pokemon</option>  
+                <option value="diethard ried">Diethard Ried</option> 
+                <option value="arakawa under the bridge">Arakawa Under the Bridge</option> 
+                <option value="subete ga f ni naru">Subete ga F ni Naru</option> 
+                <option value="bleach">Bleach</option> 
+            </select>
+            <br /><br /> 
+            <input type="button" value="Show Me The Anime Quote" onclick="getQuote()">
+        </div>
+        <div class="myflexboxColumn">
+            <h2>Quote</h2>
+            <p id="myAnimeQuote"></p>
+            <h4>Anime:</h4>
+            <p id="myAnime"></p> 
+            <h4>Anime Character:</h4>
+            <p id="myAnimeCharacter"></p>          
+        </div>              
+    </div> 
+    <img src="characters.JPG" class="pic-center" width="600" height="250">
+</body>
+</html>

@@ -1,0 +1,15 @@
+C:\Users\req101306\Desktop\DontPanicLabs\Stage2\Week3\MVCTipExample\bin\Debug\net8.0\MVCTipExample.exe
+C:\Users\req101306\Desktop\DontPanicLabs\Stage2\Week3\MVCTipExample\bin\Debug\net8.0\MVCTipExample.deps.json
+C:\Users\req101306\Desktop\DontPanicLabs\Stage2\Week3\MVCTipExample\bin\Debug\net8.0\MVCTipExample.runtimeconfig.json
+C:\Users\req101306\Desktop\DontPanicLabs\Stage2\Week3\MVCTipExample\bin\Debug\net8.0\MVCTipExample.dll
+C:\Users\req101306\Desktop\DontPanicLabs\Stage2\Week3\MVCTipExample\bin\Debug\net8.0\MVCTipExample.pdb
+C:\Users\req101306\Desktop\DontPanicLabs\Stage2\Week3\MVCTipExample\obj\Debug\net8.0\MVCTipExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\req101306\Desktop\DontPanicLabs\Stage2\Week3\MVCTipExample\obj\Debug\net8.0\MVCTipExample.AssemblyInfoInputs.cache
+C:\Users\req101306\Desktop\DontPanicLabs\Stage2\Week3\MVCTipExample\obj\Debug\net8.0\MVCTipExample.AssemblyInfo.cs
+C:\Users\req101306\Desktop\DontPanicLabs\Stage2\Week3\MVCTipExample\obj\Debug\net8.0\MVCTipExample.csproj.CoreCompileInputs.cache
+C:\Users\req101306\Desktop\DontPanicLabs\Stage2\Week3\MVCTipExample\obj\Debug\net8.0\MVCTipExample.sourcelink.json
+C:\Users\req101306\Desktop\DontPanicLabs\Stage2\Week3\MVCTipExample\obj\Debug\net8.0\MVCTipExample.dll
+C:\Users\req101306\Desktop\DontPanicLabs\Stage2\Week3\MVCTipExample\obj\Debug\net8.0\refint\MVCTipExample.dll
+C:\Users\req101306\Desktop\DontPanicLabs\Stage2\Week3\MVCTipExample\obj\Debug\net8.0\MVCTipExample.pdb
+C:\Users\req101306\Desktop\DontPanicLabs\Stage2\Week3\MVCTipExample\obj\Debug\net8.0\MVCTipExample.genruntimeconfig.cache
+C:\Users\req101306\Desktop\DontPanicLabs\Stage2\Week3\MVCTipExample\obj\Debug\net8.0\ref\MVCTipExample.dll
